@@ -16,12 +16,14 @@
     <RootNamespace>MarketAlly.IronWiki</RootNamespace>
     <PackageId>MarketAlly.IronWiki</PackageId>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Authors>David H Friedel</Authors>
+    <Authors>David H Friedel Jr.</Authors>
     <Company>MarketAlly</Company>
     <Version>1.0.0</Version>
     <PackageTags>MediaWiki;Wikitext;Parser;AST;Wikipedia;JSON;Serialization</PackageTags>
     <Description>A production-quality .NET 9 library for parsing MediaWiki wikitext into an Abstract Syntax Tree (AST) with full JSON serialization support. Features complete syntax support including tables, templates, links, and all MediaWiki constructs.</Description>
 
+    <PackageProjectUrl>https://github.com/MarketAlly/IronWiki</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MarketAlly/IronWiki</RepositoryUrl>
     <PackageIcon>icon.png</PackageIcon>
     <Copyright>Copyright © 2025 MarketAlly</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
