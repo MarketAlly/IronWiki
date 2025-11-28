@@ -1,0 +1,1417 @@
+﻿{{Use mdy dates|date=March 2019}}
+{{Use American English|date=March 2019}}
+{{Infobox baseball team season
+| name =  Houston Astros
+| image = Houston Astros cap logo.svg
+| season = 2019
+| misc = American League champions<br /> American League West champions
+| league = American League
+| division = [[American League West|West]]
+| ballpark = [[Minute Maid Park]]
+| city = [[Houston]], [[Texas]]
+| record =  107–55 ({{Winning percentage|107|55}})
+| divisional_place =  1st
+| owners = [[Jim Crane]]
+| general_managers = [[Jeff Luhnow]]
+| managers = [[A. J. Hinch]]
+| television = [[AT&T SportsNet Southwest]]<br />([[Todd Kalas]], [[Geoff Blum]])
+| radio = [[KBME (AM)|Sportstalk 790]]<br />[[KTRH|KTRH 740]] (weekday night games)<br />[[Houston Astros Radio Network]]<br />([[Robert Ford (sportscaster)|Robert Ford]], [[Steve Sparks (pitcher, born 1965)|Steve Sparks]], [[Geoff Blum]])<br />[[KLAT (AM)|KLAT]] (Spanish)<br />([[Francisco Romero (sportscaster)|Francisco Romero]], [[Alex Treviño]])
+| espntn = hou
+| brtn = hou
+}}
+
+The '''2019 [[Houston Astros]] season''' was the [[List of Houston Astros seasons|58th season]] for the [[Major League Baseball]] (MLB) franchise located in [[Houston]], [[Texas]], their 55th as the Astros, seventh in both the [[American League]] (AL) and [[American League West|AL West]] division, and 20th at [[Daikin Park|Minute Maid Park]].  They entered the season as having set a franchise record with 103 wins, defending two-time AL West champions, both with 100 or more wins, an unprecedented feat for Houston.  Having reached a second consecutive [[2018 American League Championship Series|American League Championship Series]] (ALCS), their 2018 season ended in a 4-games-to-1 loss to the eventual [[2018 World Series|World Series]] champion [[2018 Boston Red Sox season|Boston Red Sox]].  
+
+Starting the 2019 season, the Houston Astros began airing their weekly night games on [[KTRH|KTRH 740]].  On March 28, [[Justin Verlander]] made his second [[List of Houston Astros Opening Day starting pitchers|Opening Day start]] for the Astros at [[Tropicana Field]], who defeated the [[2019 Tampa Bay Rays season|Tampa Bay Rays]], 5–1.  Outfielder and designated hitter [[Yordan Alvarez]] made his major league debut in June, set a number of records and rare feats, and proceeded to win the AL [[Major League Baseball Rookie of the Month Award|Rookie of the Month Award]] each of his first three months. 
+
+For the third consecutive season, the Astros sent six players to the [[2019 Major League Baseball All-Star Game|All-Star Game]] held at [[Progressive Field]] in [[Cleveland]], the most in baseball, including four starters: [[Alex Bregman]], [[Michael Brantley]], [[Justin Verlander]], and [[George Springer]]; pitchers [[Gerrit Cole]] and [[Ryan Pressly]] were also selected. 
+
+At the July trade deadline, the Astros acquired starting pitchers [[Zack Greinke]]—adding a seventh 2019 All-Star to their roster—and [[Aaron Sanchez (baseball)|Aaron Sanchez]].  In his Astros debut on August 3, Sanchez tossed the first six innings of a combined [[no-hitter]] versus the [[2019 Seattle Mariners season|Seattle Mariners]], while Greinke was 8–1 with a 3.02 [[earned run average]] (ERA) over 10 starts for Houston.  On September 1, Verlander pitched his third career no-hitter against the [[2019 Toronto Blue Jays season|Toronto Blue Jays]] while striking out 14.  The 12th and 13th no-hitters in club history, it marked the first time that Houston authored two in the same season.  Verlander also recorded his 3,000th career strikeout on September 28.
+
+On September 18, the Astros clinched a [[2019 Major League Baseball postseason|postseason]] berth against the [[2019 Texas Rangers season|Texas Rangers]] and became the first team since the [[2002 New York Yankees season|2002]]—[[2004 New York Yankees season|2004 New York Yankees]] to produce three consecutive 100-win seasons.  On September 22, the Astros clinched their third straight AL West title.  For the first time in franchise history, the Astros led baseball with the best regular-season record of 107–55, surpassing the club record of 103 wins set the season before.  The AL West title signaled the 13th [[Major League Baseball postseason|playoff]] appearance—the fourth since moving to the American League—and 10th division title in franchise history.
+
+In the [[2019 American League Division Series|American League Division Series]] (ALDS), Houston defeated the [[2019 Tampa Bay Rays season|Tampa Bay Rays]] by a margin of three games to two.  They proceeded to defeat the [[2019 New York Yankees season|Yankees]] in the [[2019 American League Championship Series|ALCS]] by a margin of four games to two, capped by [[League Championship Series Most Valuable Player Award#American League winners|ALCS MVP]] [[Jose Altuve]]'s deep series-ending, [[walk-off home run]].  Hence, the Astros secured their second [[List of American League pennant winners|AL pennant]], third league pennant overall, and a trip to the [[2019 World Series|World Series]] for the second time in three years.  However, Houston were defeated by the [[2019 Washington Nationals season|Washington Nationals]] in seven games, a result of the first occurrence in a major league postseason series in which the road team won each of the seven games.
+
+Following the season, Verlander was recognized with his second career [[Cy Young Award]], while becoming the third Astro to garner the award.  The Astros led the league with a record six players selected to 2019's inaugural [[All-MLB Team]], including Altuve, Alvarez, Bregman, Cole, Greinke and Verlander.  Bregman and Springer were honored with AL [[Silver Slugger Award]]s, while Greinke was likewise named along with a [[Gold Glove Award|Gold Glove]] based on his play in the [[National League (baseball)|National League]].  Alvarez, who exhibited the highest [[Slugging percentage|slugging]] and [[on-base plus slugging]] percentages for rookies in history, was opted as the AL [[Major League Baseball Rookie of the Year Award|Rookie of the Year]].
+
+This was the Astros' final season with [[A. J. Hinch]] as manager and [[Jeff Luhnow]] as general manager; both were fired in January 2020 after MLB investigators confirmed that [[Houston Astros sign stealing scandal|the team had used electronics to steal opponents’ signs]] back in the 2017 regular season.
+
+== Off-season ==
+Following the 2018 season, the Houston Astros announced that their weekly night games would air on [[KTRH|KTRH 740]].<ref>{{cite newspaper |last=Barron |first=David |url=https://www.houstonchronicle.com/sports/texas-sports-nation/astros/article/Astros-radio-changes-likely-to-be-boon-for-fans-13396093.php |title=Astros' radio changes likely to be boon for fans |work=Houston Chronicle |date=November 18, 2025 |access-date=April 1, 2019}}</ref> 
+
+On March 24, 2019, the Astros signed right-handed pitcher [[Justin Verlander]] to a two-year, $66 million contract extension to keep him with Houston through the 2021 season.<ref>{{cite news |url=https://www.cbssports.com/mlb/news/justin-verlander-astros-agree-to-record-breaking-contract-extension-through-2021/ |title=Justin Verlander, Astros agree to record-breaking contract extension through 2021 |last1=Anderson |first1=R.J. |last2=Perry |first2=Dayn |work=[[CBS Sports]] |date=March 24, 2019 |access-date=April 13, 2019}}</ref>
+
+== Regular season == 
+=== Summary ===
+==== March—April ==== 
+;Opening Day starting lineup<ref>{{cite web |url=https://www.baseball-almanac.com/box-scores/boxscore.php?boxid=201903280TBR |title=Houston Astros (5) vs Tampa Bay Rays (1) box score |work=[[Baseball Almanac]] |date=March 28, 2019 |access-date=October 10, 2025}}</ref><ref>{{cite web |url=https://www.baseball-reference.com/teams/HOU/2019-uniform-numbers.shtml |title=2019 Houston Astros uniform numbers |work=Baseball-Reference.com |access-date=October 10, 2025}}</ref>
+{| 
+|-
+|+ '''[[Batting order (baseball)|Batting order]]'''
+|- 
+| {{nbsp}}4 || [[George Springer]] || [[Right fielder|RF]] 
+|- 
+| 27 || [[Jose Altuve]] || [[Second baseman|2B]] 
+|-
+| {{nbsp}}2 || [[Alex Bregman]] || [[Third baseman|3B]] 
+|- 
+| 23 || [[Michael Brantley]] || [[Left fielder|LF]]   
+|- 
+| 10 || [[Yuli Gurriel]] || [[First baseman|1B]] 
+|- 
+| 13 || [[Tyler White]] || [[Designated hitter|DH]] 
+|- 
+| 28 || [[Robinson Chirinos]] || {{nbsp}}[[Catcher|C]] 
+|- 
+| 16 || [[Aledmys Díaz]] || [[Shortstop|SS]] 
+|-
+| {{nbsp}}6 || [[Jake Marisnick]] || [[Center fielder|CF]] 
+|- 
+| || {{nbsp}}{{nbsp}}{{nbsp}}{{nbsp}} '''Starting pitcher'''
+|- 
+| 35 || [[Justin Verlander]] || {{nbsp}}[[Starting pitcher|P]] 
+|-
+| Venue: || [[Tropicana Field]] •  HOU 5, || TBR 1 
+|}
+
+In the March 28 contest versus the [[2019 Tampa Bay Rays season|Tampa Bay Rays]], [[Justin Verlander]] made his 11th career [[Opening Day]] start, and second consecutive for the Astros, earning a 5–1 victory versus reigning [[Cy Young Award]] winner [[Blake Snell]].<ref>{{cite news |url=https://www.mlb.com/news/george-springer-3rd-straight-opening-day-hr?game_pk=566664|title=3 takeaways from Astros' Opening Day win |last=McTaggart |first=Brian |work=[[MLB.com]] |date=March 28, 2019|access-date=March 29, 2019}}</ref>
+
+On April 3 versus the [[2019 Texas Rangers season|Texas Rangers]], [[Carlos Correa]] collected the 500th hit of his career.<ref>{{cite news |url=https://www.mlb.com/video/correa-s-500th-hit |title=Correa's 500th hit |website=[[MLB.com]] |date=April 3, 2019 |access-date=April 4, 2019}}</ref>
+
+In April 9 game against the [[2019 New York Yankees season|New York Yankees]], [[Jose Altuve]] connected for his 100th career home run off [[Jonathan Loáisiga]] in a 6–3 win.  Altuve became the 16th player in Astros history to reach 100 home runs.<ref>{{cite news |last=Justice |first=Richard |url=https://www.mlb.com/news/jose-altuve-hits-100th-career-homer |title=Altuve adds a milestone to his resume |work=MLB.com |date=April 9, 2019 |access-date=April 9, 2019}}</ref>  On April 12, Altuve connected for his second career [[Grand slam (baseball)|grand slam]], and first since 2014, in a 10–6 win over the [[2019 Seattle Mariners season|Seattle Mariners]].  He hit another home run the next night off [[Félix Hernández]], homering for the fifth consecutive game and sixth home run in that span.  Altuve was the first Astro to hit a home run in five consecutive games since [[Morgan Ensberg]]'s franchise-record six consecutive games in [[2006 Houston Astros season|2006]].  Verlander, the starting pitcher, struck out eight of the first 10 batters that he faced and 11 of 20 overall.  He allowed one run in six innings.<ref>{{cite web |url=https://www.mlb.com/news/jose-altuve-homers-for-fifth-straight-game |title=Altuve is 1st in MLB in '19 to achieve this HR feat |work=MLB.com |last= Kramer |first= Daniel |date=April 13, 2019 |access-date=April 13, 2019}}</ref>
+
+==== May ==== 
+With rain seeping through the roof on Minute Maid Park on May 9, [[Josh Reddick]] singled in the game-tying run that led to a 4–2 win over Texas.  Further, he robbed former Astro [[Hunter Pence]] of an imminent three-run blast.<ref>{{cite web |last=Schwartzberg |first=Seth |url=https://www.crawfishboxes.com/2025/5/9/24426693/today-in-astros-history |title=Today in Astros history - May 9 |work=The Crawfish Boxes |publisher=[[SB Nation]] |date=May 9, 2025 |access-date=October 3, 2025}}</ref>  [[George Springer]] went 5-for-5 on May 12, including clubbing two home runs to lead a 15–5 win over the Rangers.  The performance also helped Houston pull off a four-game sweep of Texas.<ref>{{cite web |last=Schwartzberg |first=Seth |url=https://www.crawfishboxes.com/2025/5/12/24428325/today-in-astros-history |title=Today in Astros history - May 12 |work=The Crawfish Boxes |publisher=[[SB Nation]] |date=May 12, 2025 |access-date=September 18, 2025}}</ref> 
+
+With injuries stacking up, on May 29 shortstop [[Carlos Correa]] sustained a bruised rib during a massage session.  He was forced to join fellow All-Stars Springer and [[Jose Altuve]] on the [[injured list]] (IL) and expected to miss four to six weeks.<ref>{{cite web |last=Schwartzberg |first=Seth |url=https://www.crawfishboxes.com/2025/5/29/24439308/today-in-astros-history |title=Today in Astros history - May 29 |work=The Crawfish Boxes |publisher=SB Nation |date=May 29, 2025 |access-date=July 25, 2025}}</ref> 
+
+On May 30, [[A. J. Hinch]] won his 500th game as manager.<ref>{{cite news |last=Barron |first=David |url=https://www.houstonchronicle.com/texas-sports-nation/astros/article/Astros-insider-Seeing-young-fan-hit-by-ball-13905743.php |title=Astros insider: Seeing young fan hit by ball 'hard to watch' |work=Houston Chronicle |date=May 30, 2019 |access-date=August 10, 2025}}</ref>
+
+==== June ====
+[[File:Alex Bregman, Justin Verlander, Mookie Betts, Gerrit Cole, and J.D. Martinez July 9, 2019 (48301269161).jpg|thumb|330px|[[Alex Bregman]], [[Justin Verlander]], [[Mookie Betts]] ([[2019 Boston Red Sox season|Boston Red Sox]]), [[Gerrit Cole]], and [[J. D. Martinez]] (Red Sox) at the [[2019 Major League Baseball All-Star Game|MLB All-Star Game]].]]
+On June 9, [[Yordan Alvarez]] made his major league debut versus the [[2019 Baltimore Orioles season|Baltimore Orioles]].<ref name=cohn060819>{{cite web |url=https://www.crawfishboxes.com/2019/6/8/18658221/the-astros-call-up-yordan-alvarez |title=The Astros call up Yordan Alvarez |last=Cohn |first=Brian |date=June 9, 2019 |website=The Crawfish Boxes |access-date=June 10, 2019 |archive-date=June 9, 2019 |archive-url=https://web.archive.org/web/20190609185013/https://www.crawfishboxes.com/2019/6/8/18658221/the-astros-call-up-yordan-alvarez |url-status=live }}</ref>  He went 1-for-3 with a two-run home run in his debut.<ref>{{cite web |url=https://www.mlb.com/news/yordan-alvarez-astros-callup |title=Yordan Alvarez in Astros' lineup, batting 5th |last=McTaggart |first=Brian |website=MLB.com |date=June 9, 2019 |access-date=June 9, 2019 |archive-date=June 9, 2019 |archive-url=https://web.archive.org/web/20190609155920/https://www.mlb.com/news/yordan-alvarez-astros-callup |url-status=live }}</ref>  The following game, Alvarez again homered, this time versus [[Matt Albers]] of the [[2019 Milwaukee Brewers season|Milwaukee Brewers]].  He became the first Astro to homer in both of his first two games.<ref>{{cite web|url=https://www.mlb.com/astros/news/yordan-alvarez-homers-in-first-two-mlb-games|title=Alvarez makes history in Astros' 4-HR night |last=McTaggert |first=Brian |date=June 12, 2019 |work=MLB.com|access-date=June 15, 2019 |archive-date=June 12, 2019 |archive-url=https://web.archive.org/web/20190612054402/https://www.mlb.com/astros/news/yordan-alvarez-homers-in-first-two-mlb-games|url-status=live}}</ref>
+
+Alvarez became the fourth player in MLB history to hit four home runs in his first five career games when he homered off [[Clayton Richard]] of the [[2019 Toronto Blue Jays season|Toronto Blue Jays]], joining [[Trevor Story]], [[Yasiel Puig]] and [[Mike Jacobs (first baseman)|Mike Jacobs]].<ref>{{cite web|url=https://www.mlb.com/astros/news/yordan-alvarez-4-home-runs-history-for-astros|title=5 games. 4 homers. History for Astros phenom |last=McTaggert |first=Brian |date=June 15, 2019 |work=MLB.com |access-date=June 16, 2019 |archive-date=June 15, 2019 |archive-url=https://web.archive.org/web/20190615232300/https://www.mlb.com/astros/news/yordan-alvarez-4-home-runs-history-for-astros|url-status=live}}</ref> On June 23, Alvarez hit a 2-run home run for his seventh home run of the season in only 12 games, establishing an Astros franchise record.  He also became the first player in [[Major League Baseball|MLB]] history to drive in 16 runs in his first 12 games.<ref>{{cite news |url=https://www.mlb.com/astros/news/yordan-alvarez-homers-again-vs-yankees |title=Alvarez on record pace with 7 HRs, 16 RBIs |last=Feinsand |first=Mark |date=June 23, 2019 |website=MLB.com |access-date=June 24, 2019 |archive-date=June 24, 2019 |archive-url=https://web.archive.org/web/20190624112005/https://www.mlb.com/astros/news/yordan-alvarez-homers-again-vs-yankees |url-status=live }}</ref>
+
+====July====
+[[Yuli Gurriel]] became the first Astro to score a run and RBI in seven consecutive games, and the fifth to homer in five consecutive games on July 7, including a game-tying grand slam in an 11–10 win versus the [[2019 Los Angeles Angels season|Los Angeles Angels]].  He won the AL Player of the Week Award for the week ending July 8, his second weekly honor.  He homered six times in all five of the Astros games, collecting nine hits with an OPS of 1.812.<ref>{{cite news |author=Houston Chronicle Sports |url=https://www.houstonchronicle.com/sports/astros/article/Astros-Yuli-Gurriel-earns-AL-Player-of-the-Week-14080528.php |title=Astros' Yuli Gurriel earns AL Player of the Week honors |work=Houston Chronicle |date=July 8, 2019 |access-date=August 7, 2019}}</ref>
+
+For the third successive season, six players represented Houston at the [[2019 Major League Baseball All-Star Game|All-Star Game]], hosted at [[Progressive Field]] in [[Cleveland]], the most in baseball.  Four starters were named, including [[Alex Bregman]], [[Michael Brantley]], [[Justin Verlander]], and [[George Springer]].  Pitchers [[Gerrit Cole]] and [[Ryan Pressly]] also were reserves.<ref name=timeline>{{cite web |url=https://www.mlb.com/astros/history/timeline |title=Astros history – Timeline |work=[[MLB.com]] |access-date=August 31, 2025}}</ref>
+
+During a contest versus the [[2019 St. Louis Cardinals season|St. Louis Cardinals]] on July 28, [[Jose Altuve]] homered for his 1,500th career hit, one of three hits in a 6–2 win that afternoon, in his 1,190th career game.  The only players in the divisional play era to reach the milestone faster were [[Ichiro Suzuki]], [[Wade Boggs]], [[Kirby Puckett]], [[Nomar Garciaparra]], [[Tony Gwynn]] and [[Derek Jeter]].<ref>{{cite news |last=Langosch |first=Jenifer |url=https://www.mlb.com/news/jose-altuve-homers-for-1500th-career-hit |title=1,500 hits: Altuve is fastest Astro to milestone: Second baseman hits 3-run HR, collects 3 hits in Houston's victory |work=MLB.com |date=July 28, 2019 |access-date=August 4, 2019}}</ref>
+
+For the month of July, Gurriel batted .398, .427 OBP, .837 SLG, 18 runs scored, seven doubles, 12 home runs, 31 RBIs over 24 games.<ref>{{cite news |language=es |last=Ebro |first=Jorge |url=https://www.elnuevoherald.com/deportes/beisbol/article233492052.html |title=Gurriel el Mejor del Mes, Álvarez el Novato de julio. Pelota cubana en MLB brilla, mientras la de la isla agoniza |work=[[El Nuevo Herald]] |date=August 3, 2019 |access-date=August 7, 2019}}</ref>
+
+Prior to the trade deadline on July 31, the Astros made three separate trades.  From the [[2019 Arizona Diamondbacks season|Arizona Diamondbacks]], they acquired right-handed pitcher [[Zack Greinke]] for right-handers [[J. B. Bukauskas]] and [[Corbin Martin]], outfielder [[Seth Beer]] and infielder [[Joshua Rojas]].  From the Toronto Blue Jays, the Astros received right-handers [[Joe Biagini]] and [[Aaron Sanchez (baseball)|Aaron Sanchez]] and minor league OF [[Cal Stevenson]] for OF [[Derek Fisher (baseball)|Derek Fisher]].  Additionally, the Astros sent catcher [[Max Stassi]] to the Los Angeles Angels for minor league outfielders Rainier Rivas and Raider Uceta.<ref>{{cite news |url=https://www.mlb.com/astros/press-release/astros-acquire-greinke-biagini-sanchez-in-multiple-trades-today |title=Astros acquire Greinke, Biagini, Sanchez in multiple trades today |work=MLB.com |date=July 31, 2019 |access-date=May 30, 2023}}</ref>
+
+MLB named three Astros as winners of three of four AL monthly awards for July, including Gurriel as [[Major League Baseball Player of the Month Award|Player of the Month]], [[Gerrit Cole]] as [[Major League Baseball Pitcher of the Month Award|Pitcher of the Month]], and Alvarez as [[Major League Baseball Rookie of the Month Award|Rookie of the Month]].<ref>{{cite news |last=Rome |first=Chandler |url=https://www.chron.com/sports/astros/article/Astros-AL-honor-July-Cole-Gurriel-Alvarez-MLB-14278210.php |title=Astros trio gets AL monthly honors for July |work=Houston Chronicle |date=August 3, 2019 |access-date=August 11, 2019}}</ref>
+
+====August====
+On August 3, Sanchez and Biagini, both making their Astros debuts, tossed part of a combined [[no-hitter]] of the [[2019 Seattle Mariners season|Seattle Mariners]], along with [[Will Harris (baseball)|Will Harris]] and [[Chris Devenski]], to lead a 9–0 win.  It was the twelfth no-hitter in club history overall, the second combined, and first no-hitter for each pitcher.  Sanchez started and worked the first six innings with six strikeouts and two walks allowed, and Harris, Biagini, and Devenski each followed with one inning apiece.  The Astros lineup got 15 hits, with Jose Altuve connecting for his 18th home run, and Michael Brantley went 3-for-5 with four RBI and two doubles.<ref>{{cite news |last=Atkins |first=Hunter |url=https://www.chron.com/sports/astros/article/Houston-Astros-Seattle-Mariners-Sanchez-no-hitter-14278819.php |title=Astros pitchers toss combined no-hitter against Mariners |work=Houston Chronicle |date=August 3, 2019 |access-date=May 30, 2023}}</ref>
+
+On August 4, Verlander struck out 10 batters over 6 innings in a 3–1 win over the Mariners.  With this 10-K performance, Verlander surpassed 200 strikeouts in a season for the ninth time in his career.  He joined [[Nolan Ryan]], [[Randy Johnson]], [[Roger Clemens]], [[Tom Seaver]], [[Pedro Martinez]], and [[Bob Gibson]] as the only pitchers with nine or more seasons of 200+ strikeouts.  All but Clemens and Verlander (ineligible at the time due to still being active) were in the [[National Baseball Hall of Fame|Hall of Fame]].<ref>{{cite news |url=https://www.mlb.com/news/justin-verlander-continues-cy-young-case?game_pk=565661|title=Justin Verlander continues Cy Young case |last=McTaggart |first=Brian |work=MLB.com |date=August 4, 2019 |access-date=August 4, 2019}}</ref>
+
+In a 14–3 romp over the [[2019 Colorado Rockies season|Colorado Rockies]] on August 7, Gurriel homered and tied [[J. R. Towles]] with eight RBIs for the club record in one game.<ref>{{cite news |last=Atkins |first=Hunter |url=https://www.chron.com/sports/astros/article/Yuli-Gurriel-8-RBIs-Astros-romp-past-Rockies-sweep-14288266.php |title=Yuli Gurriel explodes for 8 RBIs as Astros romp past Rockies |work=Houston Chronicle |date=August 7, 2019 |access-date=August 7, 2019}}</ref>
+
+The Astros set a franchise record with 23 runs scored on August 10 at [[Camden Yards]] versus the [[2019 Baltimore Orioles season|Baltimore Orioles]],  In the 23–2 win, they also set the franchise record for extra base hits with 13, including six home runs.<ref>{{cite news |agency=[[The Associated Press]] |url=https://nypost.com/2019/08/11/yordan-alvarez-belts-3-homers-as-astros-destroy-orioles/ |title=Yordan Alvarez belts 3 homers as Astros destroy Orioles |work=[[New York Post]] |date=August 11, 2019 |access-date=August 11, 2019}}</ref>  Three of the home runs came via rookie [[Yordan Alvarez]], including a grand slam.  With a career-high seven runs driven in, his total stood at 51 to establish the major league record for the first 45 games.<ref>{{cite news |last=Rome |first=Chandler |url=https://www.houstonchronicle.com/sports/texas-sports-nation/astros/article/Astros-insider-Yordan-Alvarez-rookie-phenom-14295907.php |title=Astros insider: Yordan Álvarez is cerebral, powerful and humble |work=Houston Chronicle |date=August 10, 2019 |access-date=August 11, 2019}}</ref>
+
+On August 15, [[Carlos Correa]] hit his 100th career home runs in 7–6 loss to the [[2019 Oakland Athletics season|Athletics]] at [[Oakland Coliseum]].  He joined [[Cal Ripken Jr.]] and [[Alex Rodriguez]] as the only major league shortstops to hit 100 career home runs before their 25th birthday.  He was also the youngest Astro to hit the milestone home run.<ref>{{cite news |last=McTaggart |first=Brian |url=https://www.mlb.com/news/astros-hit-five-homers-fall-short-in-slugfest |title=Correa hits 100th career homer in slugfest: Astros, A's combine for 10 homers, most ever at Coliseum |work=MLB.com |date=August 15, 2019 |access-date=November 14, 2021}}</ref>
+
+Sanchez was removed from his fourth start for the Astros on August 20 after {{frac|2|2|3}} innings due to pectoral muscle tightness, and later underwent surgery, prematurely ending his season.<ref>{{cite news |last=Polishuk |first=Mark |url=https://www.mlbtraderumors.com/2019/09/aaron-sanchez-to-undergo-season-ending-shoulder-surgery.html |title=Aaron Sanchez to undergo season-ending shoulder surgery |work=MLB Trade Rumors |date=September 5, 2019 |access-date=May 30, 2023}}</ref>
+
+====September====
+In the September 1 contest versus the Blue Jays at [[Rogers Centre]], Verlander pitched his third career no-hitter, the second of the season for the Astros, and 13th in team history.  He allowed one baserunner, a walk to [[Cavan Biggio]] in the first inning, and struck out 14 batters.  The Astros' only runs came on a two-run home run by [[Abraham Toro]] in the top of the ninth inning.  This was also Verlander's second career no-hitter against the Blue Jays at the Rogers Centre, making him just the third pitcher of the modern era to no-hit the same team twice, and the first to pitch both no-hitters against the same team on the road.{{refn|Verlander tossed his first no-hitter at the Rogers Centre on May 7, 2011, as a member of the [[2011 Detroit Tigers season|Detroit Tigers]].|group=lower-alpha|name="verlander no-hitter"}}  He is the sixth pitcher to throw three or more no-hitters in his career.<ref>{{cite news |last=Anderson |first=R. J. |title=Astros ace Justin Verlander throws third career no-hitter, strikes out 14 in dominant outing vs. Blue Jays |url=https://www.cbssports.com/mlb/news/astros-ace-justin-verlander-throws-third-career-no-hitter-strikes-out-14-in-dominant-outing-vs-blue-jays/ |website=[[CBS Sports]] |access-date=September 1, 2019 }}</ref><ref>{{cite news |author=ESPN News Services |title=Astros' Verlander tosses third career no-hitter |url=https://www.espn.com/mlb/story/_/id/27516535/astros-verlander-tosses-third-career-no-hitter |work=ESPN.com |access-date=September 2, 2019 |date=September 1, 2019}}</ref>  On September 7, Verlander continued his dominance, reaching 32 consecutive batters retired, a streak that established an Astros franchise record and was tied by teammate [[Ryan Pressly]] in [[2022 Houston Astros season|2022]].<ref>{{cite news |author=Field Level Media |url=https://www.reuters.com/article/baseball-mlb-hou-sea-idUSMTZXEI7TRII4AM |title=Alex Bregman knocks in three as Astros dump Mariners |work=[[Reuters]] |date=July 28, 2022 |access-date=July 30, 2022}}</ref> 
+
+{{multiple image|image1=Justin Verlander (51005083107) (cropped).jpg|image2=Gerrit Cole 2018 (1).jpg|total_width=425|footer=Co-[[Ace (baseball)|aces]] [[Justin Verlander]] (left) and [[Gerrit Cole]] (right).}}
+On September 8, [[Gerrit Cole]] struck out 15 batters over eight innings in a 21–1 victory over the [[2019 Seattle Mariners season|Seattle Mariners]].  He became just the second pitcher to strike out 14 or more hitters in three consecutive games, joining Pedro Martínez in 1999.  It was the sixth outing of the season of at least 10 strikeouts and no walks for Cole, tying the major league record.  The 15 strikeouts tied Verlander's Minute Maid Park record, set earlier in the season on June 12 versus the Brewers.  It was Cole's 12 consecutive decision won, dating back to May 27, with the Astros going 16–2 in those 18 starts.<ref>{{cite news |url=https://www.mlb.com/news/gerrit-cole-makes-strikeout-history |title=Cole, Pedro only pair to accomplish this feat |work=MLB.com |language=en |date=September 8, 2019 |access-date=September 9, 2019}}</ref>
+
+The Astros established a major league record on September 9 by hitting six home runs within the first two innings of a 15–0 rout of the A's.  [[Robinson Chirinos]] and Yordan Alvarez each homered twice, and [[Alex Bregman]], [[Jose Altuve]], and [[Michael Brantley]] all added home runs to give the Astros a club record-tying seven in the game.{{refn|The Astros previously hit seven home runs in a single game once, on September 9, [[2000 Houston Astros season|2000]], versus the [[2000 Chicago Cubs season|Chicago Cubs]]|group=lower-alpha|name="club home run record"}}  Alvarez (24) passed Correa for the club rookie record for home runs, while increasing his RBI total to 72, which tied for second-highest total through the first 71 games of a career in major league history.{{refn|Alvarez' 72 RBI tied [[Ted Williams]] ([[1939 Major League Baseball season|1939]]) and [[Rudy York]] ([[1937 Major League Baseball season|1937]]), and trailed [[Walt Dropo]]'s 80 ([[1949 Major League Baseball season|1949]]–[[1950 Major League Baseball season|50]]).|group=lower-alpha|name="rookie RBI"}}  Former Astro [[Mike Fiers]] (14–4), starting for Oakland, allowed career-highs of both nine runs and five home runs on nine hits in one-plus innings.  Combined with the 21-run output the day before versus Seattle, the Astros established a club record with 36 runs scored over two games, including 32 runs over a nine-inning span.  The 32 runs were second in major league history within a nine-inning span only to the [[2007 Texas Rangers season|2007 Texas Rangers]], which included a record 30–3 win over [[2007 Baltimore Orioles season|Baltimore]], per the [[Elias Sports Bureau]].<ref>{{cite news |url=https://www.espn.com/mlb/recap?gameId=401076887 |title=Astros hit record 6 HRs in 2 innings, def. A's 15–0 |work=ESPN.com |agency=Associated Press |date=September 10, 2019 |access-date=May 30, 2023}}</ref>  The following day, the Athletics won, 21–7, on a franchise record-tying 25 hits, which they had last achieved in [[1969 Oakland Athletics season|1969]].  Astros starter [[Wade Miley]] (13–5) had got just one out when pulled in the first after the A's led 6–0, following his last start in Seattle where he had allowed five runs without recording any outs.  Still, it was his first loss since June 17.  The Astros became the first MLB team since 1893 to play three consecutive contests decided by 14 or more runs each.<ref>{{cite news |url=https://www.espn.com/mlb/recap/_/gameId/401076897 |title=A's rack up 25 hits, 6 HRs in 21–7 win over Astros |work=ESPN.com |agency=Associated Press |date=September 11, 2019 |access-date=May 30, 2023}}</ref>
+
+On September 18 versus Texas, Cole struck out his 300th batter of the season, [[Shin-Soo Choo]], in a 3–2 win.  Cole became the 18th major leaguer and third Astros pitcher to reach the milestone, following [[J. R. Richard]] (303 in [[1978 Houston Astros season|1978]] and 313 in [[1979 Houston Astros season|1979]]) and [[Mike Scott (baseball)|Mike Scott]] (306 in [[1986 Houston Astros season|1986]]).  Cole also became the second-fastest pitcher to register 300 strikeouts in terms of innings pitched; his {{frac|198|1|3}} innings trailed only [[Randy Johnson]]'s {{frac|197|2|3}} IP in 2001.  The win, the Astros' 100th of the season, clinched at least a share of a [[2019 American League Wild Card Game|Wild Card]] berth, and made them the sixth team in history to win at least 100 games in three consecutive seasons.<ref>{{cite news |url=https://www.espn.com/mlb/story/_/id/27647886/cole-18th-mlb-history-300-k-season |title=Cole 18th in MLB history with 300 K's in season |author=ESPN News Services |date=September 18, 2019 |access-date=September 20, 2019}}</ref>  The Astros clinched the AL West division title at Minute Maid Park on September 22, their 102nd win of the year, third straight division title, and first three-peat since the [[1997 Houston Astros season|1997]]–[[1999 Houston Astros season|1999]] seasons.  Justin Verlander and George Springer led a 13–5 defeat of the Los Angeles Angels.  Verlander won his 20th game of the season, Springer connected for three home runs, Yordan Alvarez collected four hits, and [[Aledmys Díaz]] added a three-run home run.<ref>{{cite news |last=McTaggart |first=Brian |url=https://www.mlb.com/news/astros-clinch-2019-al-west-division-title |title=3 HRs for Springer, AL West 3-peat for Astros |work=MLB.com |date=September 22, 2019 |access-date=June 4, 2023}}</ref>  
+
+Will Harris tossed an immaculate inning in the eighth inning versus the Angels on September 27.<ref>{{cite tweet |number=1177804958982385664 |user=MLB |title=9 pitches, 3 Ks |quote=Will Harris is IMMACULATE. |date=September 27, 2019 |language=en |location=[[New York City]] |access-date=June 4, 2023}}</ref>
+
+On September 28, Verlander struck out the Angels' [[Kole Calhoun]] to register both his 3000th career strikeout and 300th on the season.  Verlander and Cole became the second teammate duo since Randy Johnson and [[Curt Schilling]] with the [[2002 Arizona Diamondbacks season|2002 Arizona Diamondbacks]] to reach 300 strikeouts.<ref>{{cite magazine |last=Lott |first=Thomas |url=https://www.sportingnews.com/us/mlb/news/gerrit-cole-justin-verlander-first-teammates-with-300-ks-since-2002/m1ucgakvt73n14ylidb7dcrpf |title=Gerrit Cole, Justin Verlander first teammates with 300 Ks since 2002 |magazine=The Sporting News |date=September 29, 2019 |access-date=June 4, 2023}}</ref> 
+
+Gerrit Cole concluded the season on a personal 16-game [[winning streak]].
+
+The Astros also clinched home field advantage throughout the [[2019 Major League Baseball postseason|MLB postseason]] on September 28. 
+
+==== Performance overview ====
+Having roared to club-record 107 victories while winning the third of three division titles for the second time in franchise history ([[1997 Houston Astros season|1997]]—[[1999 Houston Astros season|1999]] [[National League Central]] division titles), manager [[A. J. Hinch]] likewise joined [[Larry Dierker]] as the second Houston manager to guide the Astros to such a feat.  Hinch also became the first Astros manager to guide his club to three consecutive 100-win seasons, while having broken the club record for wins for a second consecutive year (103 in [[2018 Houston Astros season|2018]] and 107 in 2019).<ref name=timeline/>
+
+The Astros' [[slugging percentage]] of .495 set the major league record.  They led the major leagues in [[bases on balls]] (645 BB), [[batting average]] (.274) and [[on-base percentage]] (.352 OBP), while surrendering the second-fewest runs (640), and ranked second in [[fielding percentage]] (.988).  Houston pitching fanned the most hitters (1,671), while their lineup were retired via the fewest strikeouts (1,166).<ref name=timeline/> 
+
+Verlander and Cole, anchoring the [[starting rotation]], each turned in a sub-3.00 [[earned run average]] (ERA), attained 20 [[Win–loss record (pitching)#Winning pitcher|wins]], and 300 [[strikeout]]s, becoming the first teammate duo to actualize the latter two since [[Randy Johnson]] (24–5 W–L, 2.32 ERA, 334 K) and [[Curt Schilling]] (23–7 W–L, 3.23 ERA, 316 K) with the [[2002 Arizona Diamondbacks season|2002 Arizona Diamondbacks]].<ref>{{cite web |url=https://www.baseball-reference.com/teams/ARI/2002.shtml |title=2002 Arizona Diamondbacks statistics |work=Baseball-Reference.com |access-date=October 12, 2025}}</ref>  Further, Verlander and Cole virtually replicated each other's production, combining to lead the AL in the pitching [[Triple Crown (baseball)|Triple Crown]] categories,{{refn|Composed of leading the league in each of wins, strikeouts and ERA.|group=lower-alpha|name="Triple Crown"}}<ref name=ptc>{{cite web |url=https://www.baseball-almanac.com/awards/pitrip.shtml |title=Triple Crown of pitching |work=Baseball Almanac |access-date=September 21, 2025}}</ref> and led or placed in the top five in virtually every other measure.  Verlander—who led MLB in [[List of Major League Baseball annual wins leaders|wins]] (21), and finished second to Cole in MLB in [[List of Major League Baseball annual strikeout leaders|strikeouts]] (326 to 300)<ref>{{cite web |url=https://www.baseball-reference.com/leagues/majors/2019-pitching-leaders.shtml |title=2019 Major League pitching leaders |work=Baseball-Reference.com |access-date=October 13, 2025}}</ref> and in the AL in [[List of Major League Baseball annual ERA leaders|ERA]] (2.50 to 2.58)<ref name=2019alpitlead>{{cite web |url=https://www.baseball-reference.com/leagues/AL/2019-pitching-leaders.shtml |title=2019 American League pitching leaders |work=Baseball-Reference.com |access-date=July 17, 2022}}</ref>—clinched his second American League [[Cy Young Award]].<ref name=cya>{{cite web |url=https://www.baseball-almanac.com/awards/aw_cyy.shtml |title=The best pitcher in Major League Baseball—The Cy Young Award |work=Baseball Almanac |access-date=September 28, 2025}}</ref>  Cole's second-place finish signaled one of the closest Cy Young votes in history.<ref name=2019awardvot>{{cite web |url=https://www.baseball-reference.com/awards/awards_2019.shtml |title=2019 awards voting |work=Baseball-Reference.com |access-date=October 13, 2025}}</ref>  
+
+Verlander and Cole joined [[Mike Hampton]] and [[José Lima]] (22 games won and 21, respectively, in 1999) as the second 20-game winner duo for the Astros.<ref name=hulsey112919>{{cite web |last=Hulsey |first=Bob |url=https://www.astrosdaily.com/history/20win.html#:~:text=Listed%20below%20are%20the%20moundsmen,21)%2C%201980%20(20) |title=Houston Astros 20-game winners |work=Astros Daily |date=November 29, 2019 |access-date=September 28, 2025}}</ref>  
+
+Verlander became the fifth Astros pitcher to lead the league in wins (21), following [[Joe Niekro]] in [[1979 Houston Astros season|1979]] (21), [[Mike Scott (baseball)|Mike Scott]] in [[1989 Houston Astros season|1989]] (20), [[Mike Hampton]] in [[1999 Houston Astros season|1999]] (22), and [[Roy Oswalt]] in [[2004 Houston Astros season|2004]] (20).<ref name=winsleaders>{{cite web |url=https://www.baseball-reference.com/leaders/W_leagues.shtml |title=Yearly league leaders & records for wins |work=Baseball-Reference.com |access-date=September 28, 2025}}</ref>
+
+In addition to setting the franchise record for the strikeouts (326), Cole led the AL, the seventh time an Astros hurler headlined the league, and fifth pitcher overall.  Preceding him in this achievement included [[J. R. Richard]] (twice) in [[1978 Houston Astros season|1978]] (303) and in [[1979 Houston Astros season|1979]] (313), [[Mike Scott (baseball)|Mike Scott]] in [[1986 Houston Astros season|1986]] (306), [[Nolan Ryan]] (twuce) in [[1987 Houston Astros season|1987]] (270) and in [[1988 Houston Astros season|1988]] (228), and Verlander in [[2018 Houston Astros season|2018]] (290).<ref name=kleaders>{{cite web |url=https://www.baseball-reference.com/leaders/SO_p_leagues.shtml |title=Yearly league leaders & records for strikeouts |work=Baseball-Reference.com |access-date=September 15, 2025}}</ref>  Cole became the fifth Astro to lead all of baseball, following Richard (1987 and !979), Scott (1986), Ryan (1987) and [[Randy Johnson]] ([[1998 Houston Astros season|1998]]).{{refn|Johnson, a midseason acquisition from the [[1998 Seattle Mariners season|Seattle Mariners]] to the Astros which relocated him from the AL to the [[National League (baseball)|National League]] (NL), did not accumulate enough strikeouts to lead either individual league that year.|group=lower-alpha|name="MLB K leaders"}}<ref>{{cite web |url=https://www.baseball-reference.com/leagues/majors/1998-pitching-leaders.shtml |title=1998 Major League pitching leaders |work=Baseball-Reference.com |access-date=July 21, 2025}}</ref> 
+
+Moreover, Cole finished as the AL ERA leader at 2.50, the eighth time by a Houston pitcher, and seventh individual Houston pitcher overall.  Preceding Cole were [[J. R. Richard]] in [[1979 Houston Astros season|1979]] (2.71), [[Nolan Ryan]] (twice) in [[1981 Houston Astros season|1981]] (1.69) and [[1987 Houston Astros season|1987]] (2.76), [[Mike Scott (baseball)|Mike Scott]] in [[1986 Houston Astros season|1986]] (2.22), [[Danny Darwin]] in [[1990 Houston Astros season|1990]] (2.21), [[Roger Clemens]] in [[2005 Houston Astros season|2005]] (1.87), and [[Roy Oswalt]] in [[2006 Houston Astros season|2006]] (2.98).<ref name=eraleaders>{{cite web |url=https://www.baseball-reference.com/leaders/earned_run_avg_leagues.shtml |title=Yearly league leaders & records for earned run average |work=Baseball-Reference.com |access-date=September 15, 2025}}</ref>
+
+As the AL leader in strikeouts and ERA, Cole assembled the fourth season in which an Astros pitcher claimed two-thirds of the pitching Triple Crown (Richard in 1979, Scott in 1986, and Ryan in 1987).<ref name=ptc/>  Along with Verlander as the AL wins leader, it was the second time in franchise history that Astros pitching claimed each of the three individual Triple Crown categories, following the [[1979 Houston Astros season|1979]] team:  J. Richard with 313 strikeouts and 2.71 ERA, and Joe Niekro with 21 wins.<ref name=winsleaders/><ref name=kleaders/><ref name=eraleaders/>
+
+In winning the Cy Young Award, Verlander became the fourth Astros pitcher so recognized, and second since realigning to the American League.  Previous Astros winners included [[Mike Scott (baseball)|Mike Scott]] ([[1986 Houston Astros season|1986]] in the [[National League (baseball)|National League]] (NL)), [[Roger Clemens]] ([[2004 Houston Astros season|2004]] NL), and [[Dallas Keuchel]] ([[2015 Houston Astros season|2015]] AL).  Verlander's second Cy Young, he had previously won as a member of the [[2011 Detroit Tigers season|Detroit Tigers]] in [[2011 Major League Baseball season|2011]],<ref name=cya/> also the year in which he won the pitching Triple Crown.<ref>{{cite web |url=https://www.baseball-reference.com/leagues/AL/2011-pitching-leaders.shtml |title=2011 American League pitching leaders |work=Baseball-Reference.com |access-date=October 13, 2025}}</ref> 
+
+Cole was recognized with [[The Sporting News Pitcher of the Year Award#American League starting pitchers|''The Sporting News'' AL Pitcher of the Year Award]], the fourth Astro to receive this honor, following [[Joe Niekro]] in 1979, Mike Scott in 1986, and Mike Hampton in 1999.{{refn|From its inception in 1944 until 2012, ''[[The Sporting News]]'' recognized one pitcher each from the AL and the [[National League (baseball)|National League]] (NL) for this award.  Beginning in 2013, the award was redesignated to recognize one [[starting pitcher]] and [[relief pitcher]] from each league.|group=lower-alpha|name="SN Pitcher of the Year"}}<ref name=tsnpit>{{cite web |url=https://www.baseball-reference.com/awards/tsn.shtml |title=The Sporting News Pitchers of the Year & The Sporting News Major League Players of the Year |work=Baseball-Reference.com |access-date=August 30, 2025}}</ref>
+
+Alvarez' .655 [[slugging percentage]] (SLG)<ref name="McTaggart">{{cite news |last=McTaggart |first=Brian |url=https://www.mlb.com/news/yordan-alvarez-wins-al-rookie-of-the-year |title=Alvarez unanimous AL Rookie of the Year |work=MLB.com |date=November 11, 2019 |access-date=October 24, 2021 |archive-date=October 24, 2021 |archive-url=https://web.archive.org/web/20211024080342/https://www.mlb.com/news/yordan-alvarez-wins-al-rookie-of-the-year |url-status=live}}</ref> and 1.067 [[on-base plus slugging]] percentage (OPS) were both the highest in history for a qualified rookie, exceeding [[Shoeless Joe Jackson]]'s 1.058 OPS during his 1911 rookie campaign (minimum 350 [[plate appearance]]s).<ref name=houstonbbwaa100119>{{cite news |author=Astros Press Release |url=https://www.mlb.com/press-release/press-release-houston-bbwaa-announces-2019-awards |title=Houston BBWAA announces 2019 awards |work=MLB.com |date=October 1, 2019 |access-date=October 20, 2021 |archive-date=October 21, 2021 |archive-url=https://web.archive.org/web/20211021035905/https://www.mlb.com/press-release/press-release-houston-bbwaa-announces-2019-awards |url-status=live }}</ref> 
+
+Bregman was runner-up for the AL [[Major League Baseball Most Valuable Player Award|Most Valuable Player Award]] (MVP).
+
+* In the clubhouse after their [[2019 American League Championship Series|ALCS]] victory,<ref>{{cite web | url = https://www.npr.org/2019/10/22/772368868/astros-executives-rant-at-reporters-draws-firestorm-on-eve-of-series | title = Astros Executive's Rant At Reporters Draws Firestorm On Eve Of Series | last = Folkenflik | first = David | date = October 22, 2019 | website = NPR.com|access-date=November 12, 2019}}</ref>  Houston assistant general manager [[Brandon Taubman]] taunted female reporters. The team initially denied a ''[[Sports Illustrated]]'' report about his behavior, and accused the publication of making up the story. The Astros later fired Taubman, retracted their statement and issued an apology.<ref>{{cite news|last=Passan|first=Jeff|title=Ex-Astros pitcher Mike Fiers: Team stole signs with camera|date=November 12, 2019|website=ESPN.com|url=https://www.espn.com/mlb/story/_/id/28066522/ex-astros-pitcher-mike-fiers-team-stole-signs-camera|access-date=November 12, 2019}}</ref>
+
+=== Game log ===
+{{Game log start|style=background:#072854;color:#FF7F00;|title= 2019 Game Log: 107–55 (Home: 60–21; Away: 47–34) }}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=March/April: 18–12 (Home: 10–3; Away: 8–9)|#|Date|Opponent|Score|Win|Loss|Save|Attendance|Record|Streak}}
+|- style="text-align:center; background:#cfc"
+| 1 || March 28 || @ [[2019 Tampa Bay Rays season|Rays]] || 5–1 || '''[[Justin Verlander|Verlander]]''' (1–0) || [[Blake Snell|Snell]] (0–1) || — || 25,025 || 1–0 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_03/day_28/gid_2019_03_28_houmlb_tbamlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#fbb"
+| 2 || March 29 || @ [[2019 Tampa Bay Rays season|Rays]] || 2–4 || [[Charlie Morton (pitcher)|Morton]] (1–0) || '''[[Gerrit Cole|Cole]]''' (0–1) || [[José Alvarado (baseball)|Alvarado]] (1) || 13,059 || 1–1 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_03_day_29/gid_2019_03_29_houmlb_tbamlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 3 || March 30 || @ [[2019 Tampa Bay Rays season|Rays]] || 1–3 || [[Tyler Glasnow|Glasnow]] (1–0) || '''[[Collin McHugh|McHugh]]''' (0–1) || [[José Alvarado (baseball)|Alvarado]] (2) || 16,010 || 1–2 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_03_day_30/gid_2019_03_30_houmlb_tbamlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#fbb"
+| 4 || March 31 || @ [[2019 Tampa Bay Rays season|Rays]] || 1–3 || [[Yonny Chirinos|Chirinos]] (1–0) || '''[[Wade Miley|Miley]]''' (0–1) || [[Diego Castillo (pitcher)|Castillo]] (1) || 18,473 || 1–3 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_03/day_31/gid_2019_03_31_houmlb_tbamlb_1/boxscore_col.html L3]
+|- style="text-align:center; background:#cfc"
+| 5 || April 1 || @ [[2019 Texas Rangers season|Rangers]] || 2–1 || '''[[Brad Peacock|Peacock]]''' (1–0) || [[Adrian Sampson|Sampson]] (0–1) || '''[[Roberto Osuna|Osuna]]''' (1) || 18,056 || 2–3 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_01/gid_2019_04_01_houmlb_texmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#fbb"
+| 6 || April 2 || @ [[2019 Texas Rangers season|Rangers]] || 4–6 || [[Shawn Kelley|Kelley]] (2–0) || '''[[Framber Valdez|Valdez]]''' (0–1) || [[José Leclerc|Leclerc]] (2) || 17,907 || 2–4 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_02/gid_2019_04_02_houmlb_texmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 7 || April 3 || @ [[2019 Texas Rangers season|Rangers]] || 0–4 || [[Mike Minor (baseball)|Minor]] (1–1) || '''[[Gerrit Cole|Cole]]''' (0–2) || – || 22,265 || 2–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_03/gid_2019_04_03_houmlb_texmlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#cfc"
+| 8 || April 5 || [[2019 Oakland Athletics season|A's]] || 3–2 || '''[[Collin McHugh|McHugh]]''' (1–1) || [[Frankie Montas|Montas]] (1–1) || '''[[Roberto Osuna|Osuna]]''' (2) || 43,165 || 3–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_05/gid_2019_04_05_oakmlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 9 || April 6 || [[2019 Oakland Athletics season|A's]] || 6–0 || '''[[Wade Miley|Miley]]''' (1–1) || [[Aaron Brooks (baseball)|Brooks]] (1–1) || — || 34,487 || 4–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_06/gid_2019_04_06_oakmlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 10 || April 7 || [[2019 Oakland Athletics season|A's]] || 9–8 || '''[[Roberto Osuna|Osuna]]''' (1–0) || [[Blake Treinen|Treinen]] (0–1) || — || 34,902 || 5–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_07/gid_2019_04_07_oakmlb_houmlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#cfc"
+| 11 || April 8 || [[2019 New York Yankees season|Yankees]] || 4–3 || '''[[Ryan Pressly|Pressly]]''' (1–0) || [[Adam Ottavino|Ottavino]] (1–1) || '''[[Roberto Osuna|Osuna]]''' (3) || 27,631 || 6–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_08/gid_2019_04_08_nyamlb_houmlb_1/boxscore_col.html W4]
+|- style="text-align:center; background:#cfc"
+| 12 || April 9 || [[2019 New York Yankees season|Yankees]] || 6–3 || '''[[Héctor Rondón|Rondón]]''' (1–0) || [[Chad Green (pitcher)|Green]] (0–2) || '''[[Roberto Osuna|Osuna]]''' (4) || 31,009 || 7–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_09/gid_2019_04_09_nyamlb_houmlb_1/boxscore_col.html W5]
+|- style="text-align:center; background:#cfc"
+| 13 || April 10 || [[2019 New York Yankees season|Yankees]] || 8–6 || '''[[Collin McHugh|McHugh]]''' (2–1) || [[James Paxton (baseball)|Paxton]] (1–2) || '''[[Ryan Pressly|Pressly]]''' (1) || 27,685 || 8–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_10/gid_2019_04_10_nyamlb_houmlb_1/boxscore_col.html W6]
+|- style="text-align:center; background:#cfc"
+| 14 || April 12 || @ [[2019 Seattle Mariners season|Mariners]] || 10–6 || '''[[Brad Peacock|Peacock]]''' (2–0) || [[Shawn Armstrong|Armstrong]] (0–1) || '''[[Roberto Osuna|Osuna]]''' (5) || 30,969 || 9–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04_day_12/gid_2019_04_12_houmlb_seamlb_1/boxscore_col.html W7]
+|- style="text-align:center; background:#cfc"
+| 15 || April 13 || @ [[2019 Seattle Mariners season|Mariners]] || 3–1 || '''[[Justin Verlander|Verlander]]''' (2–0) || [[Félix Hernández|Hernández]] (1–1)|| '''[[Roberto Osuna|Osuna]]''' (6) || 30,533 || 10–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_13/gid_2019_04_13_houmlb_seamlb_1/boxscore_col.html W8]
+|- style="text-align:center; background:#cfc"
+| 16 || April 14 || @ [[2019 Seattle Mariners season|Mariners]] || 3–2 || '''[[Gerrit Cole|Cole]]''' (1–2) || [[Brandon Brennan|Brennan]] (0–1) || '''[[Roberto Osuna|Osuna]]''' (7) || 29,237 || 11–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_14/gid_2019_04_14_houmlb_seamlb_1/boxscore_col.html W9]
+|- style="text-align:center; background:#cfc"
+| 17 || April 16 || @ [[2019 Oakland Athletics season|Athletics]] || 9–1 || '''[[Collin McHugh|McHugh]]''' (3–1) || [[Marco Estrada (baseball)|Estrada]] (0–2) || — || 12,270 || 12–5 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_16/gid_2019_04_16_houmlb_oakmlb_1/boxscore_col.html W10]
+|- style="text-align:center; background:#fbb"
+| 18 || April 17 || @ [[2019 Oakland Athletics season|Athletics]] || 1–2 || [[Frankie Montas|Montas]] (3–1) || '''[[Wade Miley|Miley]]''' (1–2) || [[Blake Treinen|Treinen]] (6) || 11,323 || 12–6 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_17/gid_2019_04_17_houmlb_oakmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 19 || April 19 || @ [[2019 Texas Rangers season|Rangers]] || 7–2 || '''[[Justin Verlander|Verlander]]''' (3–0) || [[Drew Smyly|Smyly]] (0–2) || — || 35,649 || 13–6 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_19/gid_2019_04_19_houmlb_texmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#fbb"
+| 20 || April 20 || @ [[2019 Texas Rangers season|Rangers]] || 4–9 || [[Shawn Kelley|Kelley]] (3–0) || '''[[Gerrit Cole|Cole]]''' (1–3) || — || 39,636 || 13–7 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_20/gid_2019_04_20_houmlb_texmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 21 || April 21 || @ [[2019 Texas Rangers season|Rangers]] || 10–11 || [[Shelby Miller|Miller]] (1–1) || '''[[Collin McHugh|McHugh]]''' (3–2) || [[Shawn Kelley|Kelley]] (1) || 26,225 || 13–8 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_21/gid_2019_04_20_houmlb_texmlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#fbb"
+| 22 || April 22 || [[2019 Minnesota Twins season|Twins]] || 5–9 || [[Jake Odorizzi|Odorizzi]] (2–2) || '''[[Brad Peacock|Peacock]]''' (2–1) || — || 34,518 || 13–9 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_22/gid_2019_04_22_minmlb_houmlb_1/boxscore_col.html L3]
+|- style="text-align:center; background:#cfc"
+| 23 || April 23 || [[2019 Minnesota Twins season|Twins]] || 10–4 || '''[[Héctor Rondón|Rondón]]''' (2–0) || [[Trevor Hildenberger|Hildenberger]] (2–1) || — || 29,409 || 14–9 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_23/gid_2019_04_23_minmlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 24 || April 24 || [[2019 Minnesota Twins season|Twins]] || 7–1 || '''[[Justin Verlander|Verlander]]''' (4–0) || [[Kohl Stewart|Stewart]] (0–1) || — || 26,582 || 15–9 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_24/gid_2019_04_24/gid_2019_04_24_minmlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#fbb"
+| 25 || April 25 || [[2019 Cleveland Indians season|Indians]] || 1–2 || [[Trevor Bauer|Bauer]] (3–1) || '''[[Gerrit Cole|Cole]]''' (1–4) || [[Brad Hand|Hand]] (7) || 24,948 || 15–10 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_25/gid_2019_04_25_clemlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 26 || April 26 || [[2019 Cleveland Indians season|Indians]] || 3–6 || [[Adam Cimber|Cimber]] (2–1) || '''[[Héctor Rondón|Rondón]]''' (2–1) || [[Brad Hand|Hand]] (8) || 38,084 || 15–11 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_26/gid_2019_04_26_clemlb_houmlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#cfc"
+| 27 || April 27 || [[2019 Cleveland Indians season|Indians]] || 4–3 {{small|(10)}} || '''[[Roberto Osuna|Osuna]]''' (2–0) || [[Adam Cimber|Cimber]] (2–2) || — || 38,667 || 16–11 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_27/gid_2019_04_27_clemlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 28 || April 28 || [[2019 Cleveland Indians season|Indians]] || 4–1 || '''[[Framber Valdez|Valdez]]''' (1–1) || [[Carlos Carrasco (baseball)|Carrasco]] (2–3) || '''[[Ryan Pressly|Pressly]]''' (2) || 31,025 || 17–11 ||[https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_28/gid_2019_04_28_clemlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#fbb"
+| 29 || April 29 || @ [[2019 Minnesota Twins season|Twins]] || 0–1 || [[Jake Odorizzi|Odorizzi]] (3–2) || '''[[Justin Verlander|Verlander]]''' (4–1) || [[Blake Parker|Parker]] (6) || 12,615 || 17–12 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_29/gid_2019_04_29_houmlb_minmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 30 || April 30 || @ [[2019 Minnesota Twins season|Twins]] || 11–0 || '''[[Gerrit Cole|Cole]]''' (2–4) || [[Michael Pineda|Pineda]] (2–2) || — || 12,181 || 18–12 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_04/day_30/gid_2019_04_30_houmlb_minmlb_1/boxscore_col.html W1]
+|-
+{{Game log section end}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=May: 20–8 (Home: 12–5; Away: 8–3)|#|Date|Opponent|Score|Win|Loss|Save|Attendance|Record|Streak}}
+|- style="text-align:center; background:#fbb"
+| 31 || May 1 || @ [[2019 Minnesota Twins season|Twins]] || 2–6 || [[Martín Pérez (baseball)|Pérez]] (4–0) || '''[[Collin McHugh|McHugh]]''' (3–3) || — || 14,115 || 18–13 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_01/gid_2019_05_01_houmlb_minmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 32 || May 2 || @ [[2019 Minnesota Twins season|Twins]] || 2–8 || [[José Berríos|Berríos]] (5–1) || '''[[Brad Peacock|Peacock]]''' (2–2)|| — || 17,721 || 18–14 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_02/gid_2019_05_02_houmlb_minmlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#cfc"
+| 33 || May 4 || @ [[2019 Los Angeles Angels season|Angels]] || 14–2 || '''[[Wade Miley|Miley]]''' (2–2) || [[Trevor Cahill|Cahill]] (1–3) || — || 18,177 || 19–14 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_04/gid_2019_05_04_houmlb_laamlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 34 || May 5 || @ [[2019 Los Angeles Angels season|Angels]] || 10–4 || '''[[Justin Verlander|Verlander]]''' (5–1) || [[Matt Harvey|Harvey]] (1–3) || — || 17,614 || 20–14 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_05/gid_2019_05_05_houmlb_laamlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 35 || May 6 || [[2019 Kansas City Royals season|Royals]] || 6–4 || '''[[Gerrit Cole|Cole]]''' (3–4) || [[Jakob Junis|Junis]] (3–3) || '''[[Roberto Osuna|Osuna]]''' (8) || 27,079 || 21–14 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_06_kcamlb_houmlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#fbb"
+| 36 || May 7 || [[2019 Kansas City Royals season|Royals]] || 2–12 || [[Danny Duffy|Duffy]] (1–1) || '''[[Collin McHugh|McHugh]]''' (3–4) || — || 30,377 || 21–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_07/gid_2019_05_07_kcamlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 37 || May 8 || [[2019 Kansas City Royals season|Royals]] || 9–0 || '''[[Brad Peacock|Peacock]]''' (3–2) || [[Jorge López (baseball)|López]] (0–4) || — || 22,698 || 22–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_08/gid_2019_05_08_kcamlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 38 || May 9 || [[2019 Texas Rangers season|Rangers]] || 4–2 || '''[[Wade Miley|Miley]]''' (3–2) || [[Mike Minor (baseball)|Minor]] (3–3) || '''[[Roberto Osuna|Osuna]]''' (9) || 26,657 || 23–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_09/gid_2019_05_09_texmlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 39 || May 10 || [[2019 Texas Rangers season|Rangers]] || 3–0 || '''[[Justin Verlander|Verlander]]''' (6–1) || [[Lance Lynn|Lynn]] (4–3) || '''[[Roberto Osuna|Osuna]]''' (10) || 33,023 || 24–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_10/gid_2019_05_10_texmlb_houmlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#cfc"
+| 40 || May 11 || [[2019 Texas Rangers season|Rangers]] || 11–4 || '''[[Gerrit Cole|Cole]]''' (4–4) || [[Drew Smyly|Smyly]] (0–3) || — || 35,849 || 25–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_11/gid_2019_05_11_texmlb_houmlb_1/boxscore_col.html W4]
+|- style="text-align:center; background:#cfc"
+| 41 || May 12 || [[2019 Texas Rangers season|Rangers]] || 15–5 || '''[[Corbin Martin|Martin]]''' (1–0) || [[Adrian Sampson|Sampson]] (0–3) || — || 41,027 || 26–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_12/gid_2019_05_12_texmlb_houmlb_1/boxscore_col.html W5]
+|- style="text-align:center; background:#cfc"
+| 42 || May 13 || @ [[2019 Detroit Tigers season|Tigers]] || 8–1 || '''[[Brad Peacock|Peacock]]''' (4–2) || [[Matthew Boyd (baseball)|Boyd]] (4–3) || — || 15,086 || 27–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_13/gid_2019_05_13_houmlb_detmlb_1/boxscore_col.html W6]
+|- style="text-align:center; background:#cfc"
+| 43 || May 14 || @ [[2019 Detroit Tigers season|Tigers]] || 11–4 || '''[[Wade Miley|Miley]]''' (4–2) || [[Ryan Carpenter (baseball)|Carpenter]] (0–2) || — || 14,261 || 28–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_14/gid_2019_05_14_houmlb_detmlb_1/boxscore_col.html W7]
+|- style="text-align:center; background:#cfc"
+| 44 || May 15 || @ [[2019 Detroit Tigers season|Tigers]] || 5–1 || '''[[Justin Verlander|Verlander]]''' (7–1) || [[Gregory Soto|Soto]] (0–2) || — || 15,940 || 29–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_15/gid_2019_05_15_houmlb_detmlb_1/boxscore_col.html W8]
+|- style="text-align:center; background:#cfc"
+| 45 || May 17 || @ [[2019 Boston Red Sox season|Red Sox]] || 3–1 || '''[[Will Harris (baseball)|Harris]]''' (1–0) || [[Rick Porcello|Porcello]] (3–4) || '''[[Roberto Osuna|Osuna]]''' (11) || 35,558 || 30–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_17/gid_2019_05_17_houmlb_bosmlb_1/boxscore_col.html W9]
+|- style="text-align:center; background:#cfc"
+| 46 || May 18 || @ [[2019 Boston Red Sox season|Red Sox]] || 7–3 || '''[[Josh James (baseball)|James]]''' (1–0) || [[Héctor Velázquez (baseball)|Velázquez]] (1–3) || — || 36,887 || 31–15 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_18/gid_2019_05_18_houmlb_bosmlb_1/boxscore_col.html W10]
+|- style="text-align:center; background:#fbb"
+| 47 || May 19 || @ [[2019 Boston Red Sox season|Red Sox]] || 3–4 || [[Marcus Walden|Walden]] (6–0) || '''[[Framber Valdez|Valdez]]''' (1–2) || [[Brandon Workman|Workman]] (1) || 35,796 || 31–16 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_19/gid_2019_05_19_houmlb_bosmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 48 || May 20 || [[2019 Chicago White Sox season|White Sox]] || 3–0 || '''[[Brad Peacock|Peacock]]''' (5–2) || [[Ryan Burr (baseball)|Burr]] (1–1) || '''[[Roberto Osuna|Osuna]]''' (12) || 24,364 || 32–16 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_20/gid_2019_05_20_chamlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 49 || May 21 || [[2019 Chicago White Sox season|White Sox]] || 5–1 || '''[[Justin Verlander|Verlander]]''' (8–1) || [[Dylan Covey|Covey]] (0–3) || — || 31,392 || 33–16 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_21/gid_2019_05_21_chamlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#fbb"
+| 50 || May 22 || [[2019 Chicago White Sox season|White Sox]] || 4–9 || [[Iván Nova|Nova]] (3–4) || '''[[Gerrit Cole|Cole]]''' (4–5) || — || 30,237 || 33–17 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_22/gid_2019_05_22_chamlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 51 || May 23 || [[2019 Chicago White Sox season|White Sox]] || 0–4 || [[Lucas Giolito|Giolito]] (6–1) || '''[[Corbin Martin|Martin]]''' (1–1) || — || 26,073 || 33–18 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_23/gid_2019_05_23_chamlb_houmlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#cfc"
+| 52 || May 24 || [[2019 Boston Red Sox season|Red Sox]] || 4–3 || '''[[Wade Miley|Miley]]''' (5–2) || [[Chris Sale|Sale]] (1–6) || '''[[Roberto Osuna|Osuna]]''' (13) || 35,606 || 34–18 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_24/gid_2019_05_24_bosmlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 53 || May 25 || [[2019 Boston Red Sox season|Red Sox]] || 4–3 || '''[[Roberto Osuna|Osuna]]''' (3–0) || [[Matt Barnes (baseball)|Barnes]] (2–1) || — || 40,722 || 35–18 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_25/gid_2019_05_25_bosmlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#fbb"
+| 54 || May 26 || [[2019 Boston Red Sox season|Red Sox]] || 1–4 || [[Eduardo Rodríguez (left-handed pitcher)|Rodríguez]] (5–3) || '''[[Justin Verlander|Verlander]]''' (8–2) || [[Marcus Walden|Walden]] (1) || 41,502 || 35–19 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_26/gid_2019_05_26_bosmlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 55 || May 27 || [[2019 Chicago Cubs season|Cubs]] || 6–5 || '''[[Gerrit Cole|Cole]]''' (5–5) || [[Cole Hamels|Hamels]] (4–1) || '''[[Roberto Osuna|Osuna]]''' (14) || 42,135 || 36–19 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_27/gid_2019_05_27_chnmlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 56 || May 28 || [[2019 Chicago Cubs season|Cubs]] || 9–6 || '''[[Josh James (baseball)|James]]''' (2–0) || [[Jon Lester|Lester]] (3–4) || '''[[Roberto Osuna|Osuna]]''' (15) || 31,030 || 37–19 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_28/gid_2019_05_28_chnmlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#fbb"
+| 57 || May 29 || [[2019 Chicago Cubs season|Cubs]] || 1–2 || [[Kyle Hendricks|Hendricks]] (5–4) || '''[[Wade Miley|Miley]]''' (5–3) || [[Steve Cishek|Cishek]] (5) || 33,243 || 37–20 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_29/gid_2019_05_29_chnmlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 58 || May 31 || @ [[2019 Oakland Athletics season|A's]] || 3–2 ||'''[[Héctor Rondón|Rondón]]''' (3–1) || [[Lou Trivino|Trivino]] (2–2) || '''[[Roberto Osuna|Osuna]]''' (16) || 14,519 || 38–20 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_05/day_31/gid_2019_05_31_houmlb_oakmlb_1/boxscore_col.html W1]
+|-
+{{Game log section end}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=June: 15–12 (Home: 9–5; Away: 6–7)|#|Date|Opponent|Score|Win|Loss|Save|Attendance|Record|Streak}}
+|- style="text-align:center; background:#cfc"
+| 59 || June 1 || @ [[2019 Oakland Athletics season|A's]] || 5–1 || '''[[Justin Verlander|Verlander]]''' (9–2) || [[Brett Anderson (baseball)|Anderson]] (6–4) || — || 20,425 || 39–20 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_01/gid_2019_06_01_houmlb_oakmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 60 || June 2 || @ [[2019 Oakland Athletics season|A's]] || 6–4 {{small|(12)}} || '''[[Josh James (baseball)|James]]''' (3–0) || [[Lou Trivino|Trivino]] (2–3) || — || 23,144 || 40–20 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_02/gid_2019_06_02_houmlb_oakmlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#cfc"
+| 61 || June 3 || @ [[2019 Seattle Mariners season|Mariners]] || 4–2 || '''[[Framber Valdez|Valdez]]''' (2–2) || [[Cory Gearrin|Gearrin]] (0–2) || '''[[Ryan Pressly|Pressly]]''' (3) || 11,825 || 41–20 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_03/gid_2019_06_03_houmlb_seamlb_1/boxscore_col.html W4]
+|- style="text-align:center; background:#cfc"
+| 62 || June 4 || @ [[2019 Seattle Mariners season|Mariners]] || 11–5 || '''[[Reymin Guduan|Guduan]]''' (1–0) || [[Brandon Brennan|Brennan]] (2–4) || — || 12,208 || 42–20 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_04/gid_2019_06_04_houmlb_seamlb_1/boxscore_col.html W5]
+|- style="text-align:center; background:#fbb"
+| 63 || June 5 || @ [[2019 Seattle Mariners season|Mariners]] || 1–14 || [[Mike Leake|Leake]] (5–6) || '''[[Brad Peacock|Peacock]]''' (5–3) || — || 13,652 || 42–21 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_05/gid_2019_06_05_houmlb_seamlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 64 || June 6 || @ [[2019 Seattle Mariners season|Mariners]] || 8–7 {{small|(14)}} || '''[[Chris Devenski|Devenski]]''' (1–0) || [[Matt Festa|Festa]] (0–1) || — || 20,258 || 43–21 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_06/gid_2019_06_06_houmlb_seamlb_1/boxscore_col.html W1] 
+|- style="text-align:center; background:#cfc"
+| 65 || June 7 || [[2019 Baltimore Orioles season|Orioles]] || 4–3 {{small|(11)}} || '''[[Cionel Pérez|Pérez]]''' (1–0) || [[Branden Kline|Kline]] (1–3) || — || 35,414 || 44–21 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_07/gid_2019_06_07_balmlb_houmlb_1/boxscore_col W2]
+|- style="text-align:center; background:#fbb"
+| 66 || June 8 || [[2019 Baltimore Orioles season|Orioles]] || 1–4 || [[Paul Fry (baseball)|Fry]] (1–3) || '''[[Will Harris (baseball)|Harris]]''' (1–1) || [[Miguel Castro|Castro]] (2) || 38,425 || 44–22 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_08/gid_2019_06_08_balmlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 67 || June 9 || [[2019 Baltimore Orioles season|Orioles]] || 4–0 || '''[[Wade Miley|Miley]]''' (6–3) || [[Dylan Bundy|Bundy]] (3–7) || '''[[Roberto Osuna|Osuna]]''' (17) || 35,621 || 45–22 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_09/gid_2019_06_09_balmlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 68 || June 11 || [[2019 Milwaukee Brewers season|Brewers]] || 10–8 ||'''[[Brad Peacock|Peacock]]''' (6–3) || [[Freddy Peralta|Peralta]] (3–3) || — || 35,928 || 46–22 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_11/gid_2019_06_11_milmlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#fbb"
+| 69 || June 12 || [[2019 Milwaukee Brewers season|Brewers]] || 3–6 <small>(14)</small> || [[Adrian Houser|Houser]] (2–1) || '''[[Cionel Pérez|Pérez]]''' (1–1) || — || 40,032 || 46–23 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_12/gid_2019_06_12_milmlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 70 || June 14 || [[2019 Toronto Blue Jays season|Blue Jays]] || 15–2 || '''[[Gerrit Cole|Cole]]''' (6–5) || [[Aaron Sanchez (baseball)|Sanchez]] (3–8) || '''[[Rogelio Armenteros|Armenteros]]''' (1) || 34,719 || 47–23 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_14/gid_2019_06_14_tormlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 71 || June 15 || [[2019 Toronto Blue Jays season|Blue Jays]] || 7–2 || '''[[Framber Valdez|Valdez]]''' (3–2) || [[Clayton Richard|Richard]] (0–3) || — || 38,012 || 48–23 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_15/gid_2019_06_15_tormlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#fbb"
+| 72 || June 16 || [[2019 Toronto Blue Jays season|Blue Jays]] || 0–12 || [[Trent Thornton|Thornton]] (2–5) || '''[[Brad Peacock|Peacock]]''' (6–4) || — || 42,174 || 48–24 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_16/gid_2019_06_16_tormlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 73 || June 17 || @ [[2019 Cincinnati Reds season|Reds]] || 2–3 || [[Luis Castillo (pitcher, born 1992)|Castillo]] (7–1) || '''[[Wade Miley|Miley]]''' (6–4) || [[Michael Lorenzen|Lorenzen]] (3) || 22,745 || 48–25 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_17/gid_2019_06_17_houmlb_cinmlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#fbb"
+| 74 || June 18 || @ [[2019 Cincinnati Reds season|Reds]] || 3–4 || [[Anthony DeSclafani|DeSclafani]] (4–3) || '''[[Justin Verlander|Verlander]]''' (9–3) || [[Michael Lorenzen|Lorenzen]] (4) || 25,347 || 48–26 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_18/gid_2019_06_18_houmlb_cinmlb_1/boxscore_col.html L3]
+|- style="text-align:center; background:#fbb"
+| 75 || June 19 || @ [[2019 Cincinnati Reds season|Reds]] || 2–3 || [[Matt Bowman|Bowman]] (1–0) || '''[[Roberto Osuna|Osuna]]''' (3–1) || — || 24,777 || 48–27 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_19/gid_2019_06_19_houmlb_cinmlb_1/boxscore_col.html L4]
+|- style="text-align:center; background:#fbb"
+| 76 || June 20 || @ [[2019 New York Yankees season|Yankees]] || 6–10 || [[Nestor Cortes Jr.|Cortes Jr.]] (2–0) || '''[[Framber Valdez|Valdez]]''' (3–3) || [[Aroldis Chapman|Chapman]] (20) || 41,030 || 48–28 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_20/gid_2019_06_20_houmlb_nyamlb_1/boxscore_col.html L5]
+|- style="text-align:center; background:#fbb"
+| 77 || June 21 || @ [[2019 New York Yankees season|Yankees]] || 1–4 || [[James Paxton (baseball)|Paxton]] (5–3) || '''[[Brad Peacock|Peacock]]''' (6–5) || [[Aroldis Chapman|Chapman]] (21) || 41,166 || 48–29 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_21/gid_2019_06_21_houmlb_nyamlb_1/boxscore_col.html L6]
+|- style="text-align:center; background:#fbb"
+| 78 || June 22 || @ [[2019 New York Yankees season|Yankees]] || 5–7 || [[Jonathan Holder|Holder]] (5–2) || '''[[Ryan Pressly|Pressly]]''' (1–1) || [[Zack Britton|Britton]] (3) || 46,304 || 48–30 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_22/gid_2019_06_22_houmlb_nyamlb_1/boxscore_col.html L7]
+|- style="text-align:center; background:#cfc"
+| 79 || June 23 || @ [[2019 New York Yankees season|Yankees]] || 9–4 || '''[[Justin Verlander|Verlander]]''' (10–3) || [[J. A. Happ|Happ]] (7–4) || — || 46,769 || 49–30 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_23/gid_2019_06_23_houmlb_nyamlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 80 || June 25 || [[2019 Pittsburgh Pirates season|Pirates]] || 5–1 || '''[[Gerrit Cole|Cole]]''' (7–5) || [[Trevor Williams (baseball)|Williams]] (2–2) || — || 37,193 || 50–30 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_25/gid_2019_06_25_pitmlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#fbb"
+| 81 || June 26 || [[2019 Pittsburgh Pirates season|Pirates]] || 2–14 || [[Darío Agrazal|Agrazal]] (1–0) || '''[[Framber Valdez|Valdez]]''' (3–4) || — || 39,312 || 50–31 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_26/gid_2019_06_26_pitmlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 82 || June 27 || [[2019 Pittsburgh Pirates season|Pirates]] || 0–10 || [[Joe Musgrove|Musgrove]] (6–7) || '''[[Brad Peacock|Peacock]]''' (6–6) || — || 38,943 || 50–32 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_27/gid_2019_06_27_pitmlb_houmlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#cfc"
+| 83 || June 28 || [[2019 Seattle Mariners season|Mariners]] || 2–1 {{small|(10)}} || '''[[Will Harris (baseball)|Harris]]''' (2–1) || [[Matt Festa|Festa]] (0–2) || — || 32,828 || 51–32 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_28/gid_2019_06_28_seamlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 84 || June 29 || [[2019 Seattle Mariners season|Mariners]] || 6–5 {{small|(10)}} || '''[[Chris Devenski|Devenski]]''' (2–0) || [[Roenis Elías|Elías]] (2–1) || — || 35,082 || 52–32 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_29/gid_2019_06_29_seamlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 85 || June 30 || [[2019 Seattle Mariners season|Mariners]] || 6–1 || '''[[Gerrit Cole|Cole]]''' (8–5) || [[Marco Gonzales|Gonzales]] (9–7) || — || 32,485 || 53–32 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_06/day_30/gid_2019_06_30_seamlb_houmlb_1/boxscore_col.html W3]
+|-
+{{Game log section end}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=July: 16–8 (Home: 7–2; Away: 9–6)|#|Date|Opponent|Score|Win|Loss|Save|Attendance|Record|Streak}}
+|- style="text-align:center; background:#cfc"
+| 86 || July 2 || @ [[2019 Colorado Rockies season|Rockies]] || 9–8 || '''[[Will Harris (baseball)|Harris]]''' (3–1) || [[Jake McGee|McGee]] (0–1) || '''[[Roberto Osuna|Osuna]]''' (18) || 47,864 || 54–32 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_02/gid_2019_07_02_houmlb_colmlb_1/boxscore_col.html W4]
+|- style="text-align:center; background:#cfc"
+| 87 || July 3 || @ [[2019 Colorado Rockies season|Rockies]] || 4–2 || '''[[Wade Miley|Miley]]''' (7–4) || [[Peter Lambert (baseball)|Lambert]] (2–1) || '''[[Roberto Osuna|Osuna]]''' (19) || 48,308 || 55–32 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_03/gid_2019_07_03_houmlb_colmlb_1/boxscore_col.html W5]
+|- style="text-align:center; background:#fbb"
+| 88 || July 5 || [[2019 Los Angeles Angels season|Angels]] || 4–5 || [[Félix Peña|Peña]] (6–2) || '''[[Justin Verlander|Verlander]]''' (10–4) || [[Hansel Robles|Robles]] (12) || 41,219 || 55–33 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_05/gid_2019_07_05_laamlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 89 || July 6 || [[2019 Los Angeles Angels season|Angels]] || 4–0 || '''[[Gerrit Cole|Cole]]''' (9–5) || [[Andrew Heaney|Heaney]] (1–3) || — || 39,470 || 56–33 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_06/gid_2019_07_06_laamlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 90 || July 7 || [[2019 Los Angeles Angels season|Angels]] || 11–10 {{small|(10)}} || '''[[Ryan Pressly|Pressly]]''' (2–1) || [[Taylor Cole (baseball)|Cole]] (0–1) || — || 37,264 || 57–33 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_07/gid_2019_07_07_laamlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#bff;"
+| [[2019 Major League Baseball All-Star Game|ASG]] || July 9 || [[National League (baseball)|NL]] @ [[American League|AL]] || 4–3 || [[Masahiro Tanaka|Tanaka]] (1–0) || [[Clayton Kershaw|Kershaw]] (0–1) || [[Aroldis Chapman|Chapman]] (1) || 36,747 || 57–33 || N/A
+|- style="text-align:center; background:#bff;"
+| colspan="10" |<small>Representing the Astros: [[Alex Bregman]], [[George Springer]], [[Michael Brantley]], [[Justin Verlander]], [[Gerrit Cole]] & [[Ryan Pressly]] </small>
+|- style="text-align:center; background:#fbb"
+| 91 || July 11 || @ [[2019 Texas Rangers season|Rangers]] || 0–5 || [[Lance Lynn|Lynn]] (12–4) || '''[[Framber Valdez|Valdez]]''' (3–5) || — || 37,964 || 57–34 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_11/gid_2019_07_11_houmlb_texmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 92 || July 12 || @ [[2019 Texas Rangers season|Rangers]] || 8–9 || [[Shawn Kelley|Kelley]] (5–2) || '''[[Roberto Osuna|Osuna]]''' (3–2) || — || 32,322 || 57–35 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_12/gid_2019_07_12_houmlb_texmlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#cfc"
+| 93 || July 13 || @ [[2019 Texas Rangers season|Rangers]] || 7–6 {{small|(11)}} || '''[[Josh James (baseball)|James]]''' (4–0) || [[Brett Martin (baseball)|Martin]] (1–1) || '''[[Roberto Osuna|Osuna]]''' (20) || 42,452 || 58–35 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_13/gid_2019_07_13_houmlb_texmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 94 || July 14 || @ [[2019 Texas Rangers season|Rangers]] || 12–4 || '''[[Justin Verlander|Verlander]]''' (11–4) || [[Ariel Jurado|Jurado]] (5–5) || — || 27,916 || 59–35 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_14/gid_2019_07_14_houmlb_texmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#fbb"
+| 95 || July 15 || @ [[2019 Los Angeles Angels season|Angels]] || 6–9 || [[Justin Anderson (baseball)|Anderson]] (3–0) || '''[[Framber Valdez|Valdez]]''' (3–6) || [[Hansel Robles|Robles]] (14) || 35,431 || 59–36 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_15/gid_2019_07_14_houmlb_laamlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 96 || July 16 || @ [[2019 Los Angeles Angels season|Angels]] || 2–7 || [[Noé Ramirez (baseball)|Ramirez]] (4–1) || '''[[Héctor Rondón|Rondón]]''' (3–2) || — || 42,678 || 59–37 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_16/gid_2019_07_16_houmlb_laamlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#cfc"
+| 97 || July 17 || @ [[2019 Los Angeles Angels season|Angels]] || 11–2 || '''[[Gerrit Cole|Cole]]''' (10–5) || [[Félix Peña|Peña]] (7–3) || — || 35,738 || 60–37 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_17/gid_2019_07_17_houmlb_laamlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 98 || July 18 || @ [[2019 Los Angeles Angels season|Angels]] || 6–2 || '''[[Wade Miley|Miley]]''' (8–4) || [[Matt Harvey|Harvey]] (3–5) || — || 35,928 || 61–37 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_18/gid_2019_07_18_houmlb_laamlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 99 || July 19 || [[2019 Texas Rangers season|Rangers]] || 4–3 || '''[[Justin Verlander|Verlander]]''' (12–4) || [[Mike Minor (baseball)|Minor]] (8–5) || '''[[Roberto Osuna|Osuna]]''' (21) || 42,287 || 62–37 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_19/gid_2019_07_19_texmlb_houmlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#cfc"
+| 100 || July 20 || [[2019 Texas Rangers season|Rangers]] || 6–1 || '''[[José Urquidy|Urquidy]]''' (1–0) || [[Ariel Jurado|Jurado]] (5–6) || — || 41,643 || 63–37 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_20/gid_2019_07_20_texmlb_houmlb_1/boxscore_col.html W4]
+|- style="text-align:center; background:#cfc"
+| 101 || July 21 || [[2019 Texas Rangers season|Rangers]] || 5–3 || '''[[Rogelio Armenteros|Armenteros]]''' (1–0) || [[Lance Lynn|Lynn]] (12–6) || '''[[Roberto Osuna|Osuna]]''' (22) || 37,655 || 64–37 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_21/gid_2019_07_21_texmlb_houmlb_1/boxscore_col.html W5]
+|- style="text-align:center; background:#cfc"
+| 102 || July 22 || [[2019 Oakland Athletics season|A's]] || 11–1 || '''[[Gerrit Cole|Cole]]''' (11–5) || [[Homer Bailey|Bailey]] (8–7) || — || 41,534 || 65–37 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_22/gid_2019_07_22_oakmlb_houmlb_1/boxscore_col.html W6]
+|- style="text-align:center; background:#fbb"
+| 103 || July 23 || [[2019 Oakland Athletics season|A's]] || 3–4 {{small|(11)}} || [[Yusmeiro Petit|Petit]] (3–2) || '''[[Collin McHugh|McHugh]]''' (3–5) || — || 39,204 || 65–38 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_23/gid_2019_07_23_oakmlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 104 || July 24 || [[2019 Oakland Athletics season|A's]] || 4–2 || '''[[Justin Verlander|Verlander]]''' (13–4) || [[Chris Bassitt|Bassitt]] (7–4) || '''[[Roberto Osuna|Osuna]]''' (23) || 41,838 || 66–38 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_24/gid_2019_07_24_oakmlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#fbb"
+| 105 || July 26 || @ [[2019 St. Louis Cardinals season|Cardinals]] || 3–5 || [[Andrew Miller (baseball)|Miller]] (4–4) || '''[[Ryan Pressly|Pressly]]''' (2–2) || [[Carlos Martínez (pitcher, born 1991)|Martínez]] (10) || 44,724 || 66–39 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_26/gid_2019_07_26_houmlb_slnmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 106 || July 27 || @ [[2019 St. Louis Cardinals season|Cardinals]] || 8–2 || '''[[Gerrit Cole|Cole]]''' (12–5) || [[Daniel Ponce de Leon|Ponce de Leon]] (1–1) || — || 46,518 || 67–39 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_27/gid_2019_07_27_houmlb_slnmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 107 || July 28 || @ [[2019 St. Louis Cardinals season|Cardinals]] || 6–2 || '''[[Wade Miley|Miley]]''' (9–4) || [[Dakota Hudson|Hudson]] (10–5) || — || 46,714 || 68–39 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_28/gid_2019_07_28_houmlb_slnmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 108 || July 30 || @ [[2019 Cleveland Indians season|Indians]] || 2–0 || '''[[Justin Verlander|Verlander]]''' (14–4) || [[Shane Bieber|Bieber]] (10–4) || '''[[Roberto Osuna|Osuna]]''' (24) || 21,589 || 69–39 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_30/gid_2019_07_30_houmlb_clemlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#fbb"
+| 109 || July 31 || @ [[2019 Cleveland Indians season|Indians]] || 4–10 || [[Zach Plesac|Plesac]] (6–3) || '''[[José Urquidy|Urquidy]]''' (1–1) || — || 23,961 || 69–40 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_07/day_31/gid_2019_07_31_houmlb_clemlb_1/boxscore_col.html L1]
+|-
+{{Game log section end}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=August: 19–9 (Home: 13–2; Away: 6–7)|#|Date|Opponent|Score|Win|Loss|Save|Attendance|Record|Streak}}
+|- style="text-align:center; background:#cfc"
+| 110 || August 1 || @ [[2019 Cleveland Indians season|Indians]] || 7–1 || '''[[Gerrit Cole|Cole]]''' (13–5) || [[Danny Salazar|Salazar]] (0–1) || — || 21,536 || 70–40 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_01/gid_2019_08_01_houmlb_clemlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 111 || August 2 || [[2019 Seattle Mariners season|Mariners]] || 10–2 || '''[[Wade Miley|Miley]]''' (10–4) || [[Yusei Kikuchi|Kikuchi]] (4–8) || — || 41,444 || 71–40 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_02/gid_2019_08_02_seamlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 112 || August 3 || [[2019 Seattle Mariners season|Mariners]] || 9–0 || '''[[Aaron Sanchez (baseball)|Sanchez]]''' (4–14) || [[Marco Gonzales|Gonzales]] (12–9) || — || 37,059 || 72–40 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_03/gid_2019_08_03_seamlb_houmlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#cfc"
+| 113 || August 4 || [[2019 Seattle Mariners season|Mariners]] || 3–1 || '''[[Justin Verlander|Verlander]]''' (15–4) || [[Tommy Milone|Milone]] (1–6) || '''[[Roberto Osuna|Osuna]]''' (25) || 39,667 || 73–40 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_04/gid_2019_08_04_seamlb_houmlb_1/boxscore_col.html W4]
+|- style="text-align:center; background:#cfc"
+| 114 || August 6 || [[2019 Colorado Rockies season|Rockies]] || 11–6 || '''[[Zack Greinke|Greinke]]''' (11–4) || [[Chi Chi Gonzalez|Gonzalez]] (0–4) || — || 43,243 || 74–40 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_06/gid_2019_08_06_colmlb_houmlb_1/boxscore_col.html W5]
+|- style="text-align:center; background:#cfc"
+| 115 || August 7 || [[2019 Colorado Rockies season|Rockies]] || 14–3 || '''[[Gerrit Cole|Cole]]''' (14–5) || [[Peter Lambert (baseball)|Lambert]] (2–3) || — || 35,566 || 75–40 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_08/gid_2019_08_07_colmlb_houmlb_1/boxscore_col.html W6]
+|- style="text-align:center; background:#cfc"
+| 116 || August 9 || @ [[2019 Baltimore Orioles season|Orioles]] || 3–2 || '''[[Wade Miley|Miley]]''' (11–4) || [[Dylan Bundy|Bundy]] (5–12) || '''[[Roberto Osuna|Osuna]]''' (26) || 19,407 || 76–40 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_09/gid_2019_08_09_houmlb_balmlb_1/boxscore_col.html W7]
+|- style="text-align:center; background:#cfc"
+| 117 || August 10 || @ [[2019 Baltimore Orioles season|Orioles]] || 23–2 || '''[[Aaron Sanchez (baseball)|Sanchez]]''' (5–14) || [[Aaron Brooks (baseball)|Brooks]] (2–6) || — || 21,903 || 77–40 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_10/gid_2019_08_10_houmlb_balmlb_1/boxscore_col.html W8]
+|- style="text-align:center; background:#fbb"
+| 118 || August 11 || @ [[2019 Baltimore Orioles season|Orioles]] || 7–8 || [[Richard Bleier|Bleier]] (3–0) || '''[[Roberto Osuna|Osuna]]''' (3–3) || — || 17,979 || 77–41 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_11/gid_2019_08_11_houmlb_balmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#bbb"
+| — || August 12 || @ [[2019 Chicago White Sox season|White Sox]] || colspan="7" | ''Postponed (Inclement Weather, makeup date on August 13)'' 
+|- style="text-align:center; background:#cfc"
+| 119 || August 13 || @ [[2019 Chicago White Sox season|White Sox]] || 6–2 || '''[[Zack Greinke|Greinke]]''' (12–4) || [[Dylan Cease|Cease]] (2–5) || — || N/A || 78–41 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_13/gid_2019_08_13_houmlb_chamlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#fbb"
+| 120 || August 13 || @ [[2019 Chicago White Sox season|White Sox]] || 1–4 || [[Iván Nova|Nova]] (8–9) || '''[[Chris Devenski|Devenski]]''' (2–1) || — || 19,559 || 78–42 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_13/gid_2019_08_13_houmlb_chamlb_2/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 121 || August 14 || @ [[2019 Chicago White Sox season|White Sox]] || 9–13 || [[Álex Colomé|Colomé]] (4–2) || '''[[Ryan Pressly|Pressly]]''' (2–3) || — || 18,899 || 78–43 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_14/gid_2019_08_14_houmlb_chamlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#fbb"
+| 122 || August 15 || @ [[2019 Oakland Athletics season|A's]] || 6–7 || [[Jake Diekman|Diekman]] (1–6) || '''[[Chris Devenski|Devenski]]''' (2–2) || [[Liam Hendriks|Hendriks]] (14) || 15,323 || 78–44 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_15/gid_2019_08_15_houmlb_oakmlb_1/boxscore_col.html L3]
+|- style="text-align:center; background:#fbb"
+| 123 || August 16 || @ [[2019 Oakland Athletics season|A's]] || 2–3 {{small|(13)}} || [[Lou Trivino|Trivino]] (4–5) || '''[[Cy Sneed|Sneed]]''' (0–1) || — || 22,768 || 78–45 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_16/gid_2019_08_16_houmlb_oakmlb_1/boxscore_col.html L4]
+|- style="text-align:center; background:#fbb"
+| 124 || August 17 || @ [[2019 Oakland Athletics season|A's]] || 4–8 || [[Chris Bassitt|Bassitt]] (9–5) || '''[[Rogelio Armenteros|Armenteros]]''' (1–1) || — || 21,428 || 78–46 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_17/gid_2019_08_17_houmlb_oakmlb_1/boxscore_col.html L5]
+|- style="text-align:center; background:#cfc"
+| 125 || August 18 || @ [[2019 Oakland Athletics season|A's]] || 4–1 || '''[[Zack Greinke|Greinke]]''' (13–4) || [[Brett Anderson (baseball)|Anderson]] (10–9) || '''[[Roberto Osuna|Osuna]]''' (27) || 22,372 || 79–46 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_18/gid_2019_08_18_houmlb_oakmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 126 || August 19 || [[2019 Detroit Tigers season|Tigers]] || 5–4 || '''[[Wade Miley|Miley]]''' (12–4) || [[Edwin Jackson (baseball)|Jackson]] (3–6) || '''[[Roberto Osuna|Osuna]]''' (28) || 40,499 || 80–46 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_19/gid_2019_08_19/gid_2019_08_19_detmlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 127 || August 20 || [[2019 Detroit Tigers season|Tigers]] || 6–3 || '''[[Brad Peacock|Peacock]]''' (7–6) || [[Spencer Turnbull|Turnbull]] (3–12) || '''[[Roberto Osuna|Osuna]]''' (29) || 30,143 || 81–46 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_20/gid_2019_08_20_detmlb_houmlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#fbb"
+| 128 || August 21 || [[2019 Detroit Tigers season|Tigers]] || 1–2 || [[Buck Farmer|Farmer]] (5–4) || '''[[Justin Verlander|Verlander]]''' (15–5) || [[Joe Jiménez|Jiménez]] (4) || 29,567 || 81–47 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_21/gid_2019_08_21_detmlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 129 || August 22 || [[2019 Detroit Tigers season|Tigers]] || 6–3 || '''[[Gerrit Cole|Cole]]''' (15–5) || [[Jordan Zimmermann|Zimmermann]] (1–9) || '''[[Roberto Osuna|Osuna]]''' (30) || 27,220 || 82–47 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_22/gid_2019_08_22_detmlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 130 || August 23 || [[2019 Los Angeles Angels season|Angels]] || 5–4 || '''[[Zack Greinke|Greinke]]''' (14–4) || [[José Suárez (baseball, born 1998)|Suárez]] (2–5) || '''[[Roberto Osuna|Osuna]]''' (31) || 35,201 || 83–47 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_23/gid_2019_08_23_anamlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 131 || August 24 || [[2019 Los Angeles Angels season|Angels]] || 5–2 || '''[[Wade Miley|Miley]]''' (13–4) || [[Dillon Peters|Peters]] (3–2) || '''[[Will Harris (baseball)|Harris]]''' (1) || 37,862 || 84–47 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_24/gid_2019_08_24_anamlb_houmlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#cfc"
+| 132 || August 25 || [[2019 Los Angeles Angels season|Angels]] || 11–2 || '''[[Framber Valdez|Valdez]]''' (4–6) || [[Jaime Barría|Barría]] (4–7) || — || 38,989 || 85–47 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_25/gid_2019_08_25_anamlb_houmlb_1/boxscore_col.html W4]
+|- style="text-align:center; background:#cfc"
+| 133 || August 27 || [[2019 Tampa Bay Rays season|Rays]] || 15–1 || '''[[Justin Verlander|Verlander]]''' (16–5) || [[Charlie Morton (pitcher)|Morton]] (13–6) || — || 28,454 || 86–47 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_27/gid_2019_08_27_tbamlb_houmlb_1/boxscore_col.html W5]
+|- style="text-align:center; background:#cfc"
+| 134 || August 28 || [[2019 Tampa Bay Rays season|Rays]] || 8–6 || '''[[Will Harris (baseball)|Harris]]''' (4–1)|| [[Diego Castillo (pitcher)|Castillo]] (2–8) || — || 25,539 || 87–47 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_28/gid_2019_08_28_tbamlb_houmlb_1/boxscore_col.html W6]
+|- style="text-align:center; background:#fbb"
+| 135 || August 29 || [[2019 Tampa Bay Rays season|Rays]] || 8–9 || [[José De León|De León]] (1–0) || '''[[Chris Devenski|Devenski]]''' (2–3) || [[Emilio Pagán|Pagán]] (15) || 33,051 || 87–48 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_29/gid_2019_08_29_tbamlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 136 || August 30 || @ [[2019 Toronto Blue Jays season|Blue Jays]] || 7–4 || '''[[Collin McHugh|McHugh]]''' (4–5) || [[Trent Thornton|Thornton]] (4–9) || — || 25,289 || 88–48 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_30/gid_2019_08_30_houmlb_tormlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#fbb "
+| 137 || August 31 || @ [[2019 Toronto Blue Jays season|Blue Jays]] || 4–6 || [[Clay Buchholz|Buchholz]] (1–3) || '''[[Framber Valdez|Valdez]]''' (4–7) || [[Ken Giles|Giles]] (18) || 26,414 || 88–49 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_08/day_31/gid_2019_08_31_houmlb_tormlb_1/boxscore_col.html L1]
+|-
+{{Game log section end}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=September: 19–6 (Home: 9–4; Away: 10–2)|#|Date|Opponent|Score|Win|Loss|Save|Attendance|Record|Streak}}
+|- style="text-align:center; background:#cfc"
+| 138 || September 1 || @ [[2019 Toronto Blue Jays season|Blue Jays]] || 2–0 || '''[[Justin Verlander|Verlander]]''' (17–5) || [[Ken Giles|Giles]] (2–3) || — || 24,104 || 89–49 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_01/gid_2019_09_01_houmlb_tormlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 139 || September 2 || @ [[2019 Milwaukee Brewers season|Brewers]] || 3–2 {{small|(10)}} || '''[[Roberto Osuna|Osuna]]''' (4–3) || [[Junior Guerra|Guerra]] (8–5) || '''[[Josh James (baseball)|James]]''' (1) || 39,046 || 90–49 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_02/gid_2019_09_02_houmlb_milmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#fbb"
+| 140 || September 3 || @ [[2019 Milwaukee Brewers season|Brewers]] || 2–4 || [[Jordan Lyles|Lyles]] (10–8) || '''[[Zack Greinke|Greinke]]''' (14–5) || [[Josh Hader|Hader]] (28) || 29,335 || 90–50 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_03/gid_2019_09_03_houmlb_milmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 141 || September 5 || [[2019 Seattle Mariners season|Mariners]] || 11–9 {{small|(13)}} || '''[[Josh James (baseball)|James]]''' (5–0) || [[Matt Wisler|Wisler]] (3–4) || — || 27,822 || 91–50 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_05/gid_2019_09_05_seamlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 142 || September 6 || [[2019 Seattle Mariners season|Mariners]] || 7–4 || '''[[Joe Smith (pitcher)|Smith]]''' (1–0) || [[Tommy Milone|Milone]] (3–9) || '''[[Roberto Osuna|Osuna]]''' (32) || 33,149 || 92–50 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_06/gid_2019_09_06_seamlb_houmlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 143 || September 7 || [[2019 Seattle Mariners season|Mariners]] || 2–1 || '''[[Justin Verlander|Verlander]]''' (18–5) || [[Austin Adams (baseball, born 1991)|Adams]] (1–2) || '''[[Will Harris (baseball)|Harris]]''' (2) || 41,958 || 93–50 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_07/gid_2019_09_07_seamlb_houmlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#cfc"
+| 144 || September 8 || [[2019 Seattle Mariners season|Mariners]] || 21–1 || '''[[Gerrit Cole|Cole]]''' (16–5) || [[Félix Hernández|Hernández]] (1–6) || — || 35,569 || 94–50 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_08/gid_2019_09_08_seamlb_houmlb_1/boxscore_col.html W4]
+|- style="text-align:center; background:#cfc"
+| 145 || September 9 || [[2019 Oakland Athletics season|A's]] || 15–0 || '''[[Zack Greinke|Greinke]]''' (15–5) || [[Mike Fiers|Fiers]] (14–4) || — || 38,289 || 95–50 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_09/gid_2019_09_09_oakmlb_houmlb_1/boxscore_col.html W5]
+|- style="text-align:center; background:#fbb"
+| 146 || September 10 || [[2019 Oakland Athletics season|A's]] || 7–21 || [[Tanner Roark|Roark]] (10–8) || '''[[Wade Miley|Miley]]''' (13–5) || [[Daniel Mengden|Mengden]] (1) || 32,100 || 95–51 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_10/gid_2019_09_10_oakmlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#fbb"
+| 147 || September 11 || [[2019 Oakland Athletics season|A's]] || 3–5 || [[Brett Anderson (baseball)|Anderson]] (12–9) || '''[[Josh James (baseball)|James]]''' (5–1) || [[Liam Hendriks|Hendriks]] (20) || 32,938 || 95–52 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_11/gid_2019_09_11_oakmlb_houmlb_1/boxscore_col.html L2]
+|- style="text-align:center; background:#fbb"
+| 148 || September 12 || [[2019 Oakland Athletics season|A's]] || 2–3 || [[Homer Bailey|Bailey]] (13–8) || '''[[Justin Verlander|Verlander]]''' (18–6) || [[Liam Hendriks|Hendriks]] (21) || 34,024 || 95–53 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_12/gid_2019_09_12_oakmlb_houmlb_1/boxscore_col.html L3]
+|- style="text-align:center; background:#cfc"
+| 149 || September 13 || @ [[2019 Kansas City Royals season|Royals]] || 4–1 || '''[[Gerrit Cole|Cole]]''' (17–5) || [[Heath Fillmyer|Fillmyer]] (0–2) || '''[[Roberto Osuna|Osuna]]''' (33) || 20,593 || 96–53 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_13/gid_2019_09_13_houmlb_kcamlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 150 || September 14 || @ [[2019 Kansas City Royals season|Royals]] || 6–1 || '''[[Zack Greinke|Greinke]]''' (16–5) || [[Mike Montgomery (baseball)|Montgomery]] (3–9) || — || 20,716 || 97–53 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_14/gid_2019_09_14_houmlb_kcamlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 151 || September 15 || @ [[2019 Kansas City Royals season|Royals]] || 12–3 || '''[[Wade Miley|Miley]]''' (14–5) || [[Jakob Junis|Junis]] (9–14) || — || 17,205 || 98–53 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_15/gid_2019_09_15_houmlb_kcamlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#cfc"
+| 152 || September 17 || [[2019 Texas Rangers season|Rangers]] || 4–1 || '''[[Justin Verlander|Verlander]]''' (19–6) || [[Lance Lynn|Lynn]] (14–11) || '''[[Roberto Osuna|Osuna]]''' (34) || 39,650 || 99–53 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_17/gid_2019_09_17_texmlb_houmlb_1/boxscore_col.html W4]
+|- style="text-align:center; background:#cfc"
+| 153 || September 18 || [[2019 Texas Rangers season|Rangers]] || 3–2 || '''[[Gerrit Cole|Cole]]''' (18–5) || [[Kolby Allard|Allard]] (4–1) || '''[[Roberto Osuna|Osuna]]''' (35) || 38,417 || 100–53 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_18/gid_2019_09_18_texmlb_houmlb_1/boxscore_col.html W5]
+|- style="text-align:center; background:#cfc"
+| 154 || September 20 || [[2019 Los Angeles Angels season|Angels]] || 6–4 || '''[[Zack Greinke|Greinke]]''' (17–5) || [[Jaime Barría|Barría]] (4–10) || '''[[Roberto Osuna|Osuna]]''' (36) || 40,106 || 101–53 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_20/gid_2019_09_20_laamlb_houmlb_1/boxscore_col.html W6]
+|- style="text-align:center; background:#fbb"
+| 155 || September 21 || [[2019 Los Angeles Angels season|Angels]] || 4–8 || [[Luke Bard|Bard]] (3–2) || '''[[Wade Miley|Miley]]''' (14–6) || — || 43,264 || 101–54 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_21/gid_2019_09_21_laamlb_houmlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 156 || September 22 || [[2019 Los Angeles Angels season|Angels]] || 13–5 || '''[[Justin Verlander|Verlander]]''' (20–6) || [[José Rodríguez (pitcher, born 1995)|Rodríguez]] (0–1) || — || 43,169 || 102–54 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_22/gid_2019_09_22_laamlb_houmlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 157 || September 24 || @ [[2019 Seattle Mariners season|Mariners]] || 3–0 || '''[[Gerrit Cole|Cole]]''' (19–5) || [[Tommy Milone|Milone]] (4–10) || '''[[Roberto Osuna|Osuna]]''' (37) || 11,259 || 103–54 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_24/gid_2019_09_24_houmlb_seamlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 158 || September 25 || @ [[2019 Seattle Mariners season|Mariners]] || 3–0 || '''[[Zack Greinke|Greinke]]''' (18–5) || [[Yusei Kikuchi|Kikuchi]] (6–11) || '''[[Will Harris (baseball)|Harris]]''' (3) || 10,916 || 104–54 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_25/gid_2019_09_25_houmlb_seamlb_1/boxscore_col.html W3]
+|- style="text-align:center; background:#fbb"
+| 159 || September 26 || @ [[2019 Los Angeles Angels season|Angels]] || 3–4 {{small|(12)}} || [[Trevor Cahill|Cahill]] (4–9) || '''[[Joe Biagini|Biagini]]''' (3–2) || — || 39,658 || 104–55 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_26/gid_2019_09_26_houmlb_laamlb_1/boxscore_col.html L1]
+|- style="text-align:center; background:#cfc"
+| 160 || September 27 || @ [[2019 Los Angeles Angels season|Angels]] || 4–0 || '''[[José Urquidy|Urquidy]]''' (2–1) || [[Patrick Sandoval|Sandoval]] (0–4) || — || 41,763 || 105–55 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_27/gid_2019_09_27_houmlb_laamlb_1/boxscore_col.html W1]
+|- style="text-align:center; background:#cfc"
+| 161 || September 28 || @ [[2019 Los Angeles Angels season|Angels]] || 6–3 || '''[[Justin Verlander|Verlander]]''' (21–6) || [[Luke Bard|Bard]] (3–3) || '''[[Roberto Osuna|Osuna]]''' (38) || 35,814 || 106–55 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_28/gid_2019_09_28_houmlb_laamlb_1/boxscore_col.html W2]
+|- style="text-align:center; background:#cfc"
+| 162 || September 29 || @ [[2019 Los Angeles Angels season|Angels]] || 8–5 || '''[[Gerrit Cole|Cole]]''' (20–5) || [[Dillon Peters|Peters]] (4–4) || '''[[Will Harris (baseball)|Harris]]''' (4) || 34,693 || 107–55 || [https://gd2.mlb.com/content/game/mlb/year_2019/month_09/day_29/gid_2019_09_29_houmlb_laamlb_1/boxscore_col.html W3]
+|-
+{{Game log section end}}
+|-
+| Legend:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{Color box|#cfc|border=darkgray}} = Win&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{Color box|#fbb|border=darkgray}} = Loss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{Color box|#bbb|border=darkgray}} = Game postponed&nbsp;&nbsp;&nbsp;&nbsp; <br />Bold = Astros team member
+{{Game log end}}
+
+===Season standings===
+American League West
+{{2019 AL West standings|highlight=Houston Astros}}
+
+{{2019 AL Wild Card standings|highlight=Houston Astros}}
+
+=== Record against opponents ===
+[[File:Houston Astros vs. Texas Rangers July 2019 09.jpg|thumb|The Astros playing at [[2019 Texas Rangers season|Texas]] on July 13]]
+{{2019 AL Record vs. opponents|team=HOU}}
+
+== Player stats ==
+
+===Batting===
+''Note: G = Games played; AB = At bats; R = Runs; H = Hits; 2B = Doubles; 3B = Triples; HR = Home runs; RBI = Runs batted in; SB = Stolen bases; BB = Walks; AVG = Batting average; SLG = Slugging average''
+{{sticky header}}
+{| class="wikitable sortable sticky-header" style="text-align:center" 
+|+ 2019 regular season batting statistics
+|-
+!bgcolor=#DDDDFF; width="16%"|Batter
+!bgcolor=#DDDDFF; width="7%"|G
+!bgcolor=#DDDDFF; width="7%"|AB
+!bgcolor=#DDDDFF; width="7%"|R
+!bgcolor=#DDDDFF; width="7%"|H
+!bgcolor=#DDDDFF; width="7%"|2B
+!bgcolor=#DDDDFF; width="7%"|3B
+!bgcolor=#DDDDFF; width="7%"|HR
+!bgcolor=#DDDDFF; width="7%"|RBI
+!bgcolor=#DDDDFF; width="7%"|SB
+!bgcolor=#DDDDFF; width="7%"|BB
+!bgcolor=#DDDDFF; width="7%"|AVG
+!bgcolor=#DDDDFF; width="7%"|SLG
+|-
+|style="text-align:left"|{{sortname|Michael|Brantley}}||148||575||88||179||40||2||22||90||3||51||.311||.503
+|-
+|style="text-align:left"|{{sortname|Yuli|Gurriel}}||144||564||85||168||40||2||31||104||5||37||.298||.541
+|-
+|style="text-align:left"|{{sortname|Alex|Bregman}}||156||554||122||164||37||2||41||112||5||119||.296||.592
+|-
+|style="text-align:left"|{{sortname|Josh|Reddick}}||141||501||57||138||19||3||14||56||5||36||.275||.409
+|-
+|style="text-align:left"|{{sortname|Jose|Altuve}}||124||500||89||149||27||3||31||74||6||41||.298||.550
+|-
+|style="text-align:left"|{{sortname|George|Springer}}||122||479||96||140||20||3||39||96||6||67||.292||.591
+|-
+|style="text-align:left"|{{sortname|Robinson|Chirinos}}||114||366||57||87||22||1||17||58||1||51||.238||.443
+|-
+|style="text-align:left"|{{sortname|Yordan|Alvarez}}||87||313||58||98||26||0||27||78||0||52||.313||.655
+|-
+|style="text-align:left"|{{sortname|Jake|Marisnick}}||120||292||46||68||16||3||10||34||10||17||.233||.411
+|-
+|style="text-align:left"|{{sortname|Carlos|Correa}}||75||280||42||78||16||1||21||59||1||35||.279||.568
+|-
+|style="text-align:left"|{{sortname|Tyler|White}}||71||218||16||49||14||0||3||21||0||32||.225||.330
+|-
+|style="text-align:left"|{{sortname|Aledmys|Díaz}}||69||210||36||57||12||1||9||40||2||26||.271||.467
+|-
+|style="text-align:left"|{{sortname|Tony|Kemp|dab=baseball}}||66||163||23||37||6||2||7||17||4||16||.227||.417
+|-
+|style="text-align:left"|{{sortname|Myles|Straw}}||56||108||27||29||4||2||0||7||8||19||.269||.343
+|-
+|style="text-align:left"|{{sortname|Max|Stassi}}||31||90||4||15||1||0||1||3||0||7||.167||.211
+|-
+|style="text-align:left"|{{sortname|Martín|Maldonado}}||27||84||20||17||4||0||6||10||0||13||.202||.464
+|-
+|style="text-align:left"|{{sortname|Abraham|Toro}}||25||78||13||17||3||2||2||9||1||9||.218||.385
+|-
+|style="text-align:left"|{{sortname|Kyle|Tucker}}||22||67||15||18||6||0||4||11||5||4||.269||.537
+|-
+|style="text-align:left"|{{sortname|Jack|Mayfield}}||26||64||8||10|||5||0||2||5||0||1||.156||.328
+|-
+|style="text-align:left"|{{sortname|Derek|Fisher|dab=baseball}}||17||53||9||12||2||1||1||5||4||7||.226||.358
+|-
+|style="text-align:left"|{{sortname|Garrett|Stubbs}}||19||35||8||7||3||0||0||2||1||4||.200||.286
+|- class="sortbottom"  
+|style="text-align:left|Pitcher Totals 
+|| ||19||1||1||0||0||0||0||0||1||.053||.053
+|- class="sortbottom" 
+|style="text-align:left|'''Team Totals''' 
+||'''162'''||'''5613'''||'''920'''||'''1538'''||'''323'''||'''28'''||'''288'''||'''891'''||'''67'''||'''645'''||'''.274'''||'''.495'''
+|}
+Source:[https://baseball-reference.com/teams/HOU/2019-batting.shtml]
+
+===Pitching===
+''Note: W = Wins; L = Losses; ERA = Earned run average; G = Games pitched; GS = Games started; SV = Saves; IP = Innings pitched; H = Hits allowed; R = Runs allowed; ER = Earned runs allowed; BB = Walks allowed; SO = Strikeouts'' 
+{{sticky header}}
+{| class="wikitable sortable sticky-header" style="text-align:center" 
+|+ 2019 regular season pitching statistics
+|-
+!bgcolor=#DDDDFF; width="16%"|Pitcher
+!bgcolor=#DDDDFF; width="7%"|W
+!bgcolor=#DDDDFF; width="7%"|L
+!bgcolor=#DDDDFF; width="7%"|ERA
+!bgcolor=#DDDDFF; width="7%"|G
+!bgcolor=#DDDDFF; width="7%"|GS
+!bgcolor=#DDDDFF; width="7%"|SV
+!bgcolor=#DDDDFF; width="7%"|IP
+!bgcolor=#DDDDFF; width="7%"|H
+!bgcolor=#DDDDFF; width="7%"|R
+!bgcolor=#DDDDFF; width="7%"|ER
+!bgcolor=#DDDDFF; width="7%"|BB
+!bgcolor=#DDDDFF; width="7%"|SO
+|-
+|style="text-align:left"|[[Justin Verlander]]||21||6||2.58||34||34||0||223||137||66||64||42||300
+|-
+|style="text-align:left"|[[Gerrit Cole]]||20||5||2.50||33||33||0||{{frac|212|1|3}}||142||66||59||48||326
+|-
+|style="text-align:left"|[[Wade Miley]]||14||6||3.98||33||33||0||{{frac|167|1|3}}||164||83||74||61||140
+|-
+|style="text-align:left"|[[Brad Peacock]]||7||6||4.12||23||15||0||{{frac|91|2|3}}||78||43||42||31||96
+|-
+|style="text-align:left"|[[Collin McHugh]]||4||5||4.70||35||8||0||{{frac|74|2|3}}||62||41||39||30||82
+|-
+|style="text-align:left"|[[Framber Valdez]]||4||7||5.86||26||8||0||{{frac|70|2|3}}||74||51||46||44||68
+|-
+|style="text-align:left"|[[Chris Devenski]]||2||3||4.83||61||1||0||69||69||39||37||21||72
+|-
+|style="text-align:left"|[[Roberto Osuna]]||4||3||2.63||66||0||38||65||45||20||19||12||73
+|-
+|style="text-align:left"|[[Zack Greinke]]||8||1||3.02||10||10||0||{{frac|62|2|3}}||58||25||21||9||52
+|-
+|style="text-align:left"|[[Josh James (baseball)|Josh James]]||5||1||4.70||49||1||1||{{frac|61|1|3}}||46||34||32||35||100
+|-
+|style="text-align:left"|[[Héctor Rondón]]||3||2||3.71||62||1||0||{{frac|60|2|3}}||56||25||25||20||48
+|-
+|style="text-align:left"|[[Will Harris (baseball)|Will Harris]]||4||1||1.50||68||0||4||60||42||14||10||14||62
+|-
+|style="text-align:left"|[[Ryan Pressly]]||2||3||2.32||55||0||3||{{frac|54|1|3}}||37||15||14||12||72
+|-
+|style="text-align:left"|[[José Urquidy]]||2||1||3.95||9||7||0||41||38||18||18||7||40
+|-
+|style="text-align:left"|[[Joe Smith (pitcher)|Joe Smith]]||1||0||1.80||28||0||0||25||19||6||5||5||22
+|-
+|style="text-align:left"|[[Cy Sneed]]||0||1||5.48||8||0||0||{{frac|21|1|3}}||26||13||13||5||23
+|-
+|style="text-align:left"|[[Corbin Martin]]||1||1||5.59||5||5||0||{{frac|19|1|3}}||23||14||12||12||19
+|-
+|style="text-align:left"|[[Aaron Sanchez (baseball)|Aaron Sanchez]]||2||0||4.82||4||4||0||{{frac|18|2|3}}||14||10||10||9||16
+|-
+|style="text-align:left"|[[Rogelio Armenteros]]||1||1||4.00||5||2||1||18||17||9||8||5||18
+|-
+|style="text-align:left"|[[Joe Biagini]]||0||1||7.36||13||0||0||{{frac|14|2|3}}||21||13||12||9||10
+|-
+|style="text-align:left"|[[Cionel Pérez]]||1||1||10.00||5||0||0||9||11||10||10||2||7
+|-
+|style="text-align:left"|[[Bryan Abreu]]||0||0||1.04||7||0||0||{{frac|8|2|3}}||4||1||1||3||13
+|-
+|style="text-align:left"|[[Reymin Guduan]]||1||0||11.81||7||0||0||{{frac|5|1|3}}||8||7||7||4||6
+|-
+|style="text-align:left"|[[Brady Rodgers]]||0||0||16.20||3||0||0||5||7||9||9||3||4
+|-
+|style="text-align:left"|[[Tyler White]]||0||0||21.60||4||0||0||{{frac|3|1|3}}||7||8||8||5||2
+|-
+|style="text-align:left"|[[Max Stassi]]||0||0||0.00||1||0||0||{{frac|1|3}}||0||0||0||0||0
+|- class="sortbottom"  
+|style="text-align:left" |'''Team Totals'''
+||'''107'''||'''55'''||'''3.66'''||'''162'''||'''162'''||'''47'''||'''{{frac|1462|1|3}}'''||'''1205'''||'''640'''||'''595'''||'''448'''||'''1671'''
+|}
+Source:[https://baseball-reference.com/teams/HOU/2019-pitching.shtml]
+
+== Postseason == 
+=== Summary ===
+Despite the World Series upset, this Astros team is still considered to have put together one of the best regular seasons, and most talented rosters, in the history of baseball, owing largely to its historic 107-win campaign, earning the biggest share of season-end accolades, and record-breaking individual achievements.<ref>{{cite web |url=https://bleacherreport.com/articles/2859022-the-greatest-team-ive-ever-seen-astros-playing-for-history-in-world-series |title='The Greatest Team I've Ever Seen': Astros Playing for History in World Series |first=Scott |last=Miller |website=[[Bleacher Report]] |date=October 22, 2019 |access-date=February 22, 2021}}</ref><ref>{{cite news |url=https://climbingtalshill.com/2019/09/19/2019-astros-all-time-best// |title=Are your 2019 Astros the best team of all-time on paper? |first=Justin |last=Putnal |newspaper=[[FanSided]] |date=September 19, 2019 |access-date=February 22, 2021}}</ref>  With seven 2019 All-Stars on its postseason squad, the Astros fielded among the most in baseball history.
+
+=== Game log ===
+{{Game log start|style=background:#072854;color:#FF7F00;|title= 2019 Postseason Game Log: (10–8)}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=[[2019 American League Division Series|<span style="color:white;">ALDS</span>]] vs [[2019 Tampa Bay Rays season|<span style="color:white;">Rays</span>]]: (3–2) | #| Date| Opponent| Score| Win| Loss| Save| Attendance| Record | Streak}}
+|- style="background:#cfc;"
+| 1 || October 4 || [[2019 Tampa Bay Rays season|Rays]] || 6–2 || '''[[Justin Verlander|Verlander]]''' (1–0) || [[Tyler Glasnow|Glasnow]] (0–1) || — || 43,360 || 1–0 || [https://www.baseball-reference.com/boxes/HOU/HOU201910040.shtml W1]
+|- style="background:#cfc;"
+| 2 || October 5 || [[2019 Tampa Bay Rays season|Rays]] || 3–1 || '''[[Gerrit Cole|Cole]]''' (1–0) || [[Blake Snell|Snell]] (0–1) || '''[[Will Harris (baseball)|Harris]]''' (1) || 43,378 || 2–0 || [https://www.baseball-reference.com/boxes/HOU/HOU201910050.shtml W2]
+|- style="background:#fbb;"
+| 3 || October 7 || @ [[2019 Tampa Bay Rays season|Rays]] || 3–10 || [[Charlie Morton (pitcher)|Morton]] (1–0) || '''[[Zack Greinke|Greinke]]''' (0–1) || — || 32,251 || 2–1 || [https://www.baseball-reference.com/boxes/TBA/TBA201910070.shtml L1]
+|- style="background:#fbb;"
+| 4 || October 8 || @ [[2019 Tampa Bay Rays season|Rays]] || 1–4 || [[Ryan Yarbrough|Yarbrough]] (1–0) || '''[[Justin Verlander|Verlander]]''' (1–1) || [[Blake Snell|Snell]] (1) || 32,178 || 2–2 || [https://www.baseball-reference.com/boxes/TBA/TBA201910080.shtml L2]
+|- style="background:#cfc;"
+| 5 || October 10 || [[2019 Tampa Bay Rays season|Rays]] || 6–1 || '''[[Gerrit Cole|Cole]]''' (2–0) || [[Tyler Glasnow|Glasnow]] (0–2) || — || 43,418 || 3–2 || [https://www.baseball-reference.com/boxes/HOU/HOU201910100.shtml W1]
+|-
+{{Game log section end}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=[[2019 American League Championship Series|<span style="color:white;">ALCS</span>]] vs [[2019 New York Yankees season|<span style="color:white;">Yankees</span>]]: (4–2) | #| Date| Opponent| Score| Win| Loss| Save| Attendance| Record | Streak }}
+|- style="background:#fbb;"
+| 1 || October 12 || [[2019 New York Yankees season|Yankees]] || 0–7 || [[Masahiro Tanaka|Tanaka]] (1–0) || '''[[Zack Greinke|Greinke]]''' (0–1) || — || 43,311 || 0–1 || [https://www.baseball-reference.com/boxes/HOU/HOU201910120.shtml L1]
+|- style="background:#cfc;"
+| 2 || October 13 || [[2019 New York Yankees season|Yankees]] || 3–2 {{small|(11)}} || '''[[Josh James (baseball)|James]]''' (1–0) || [[J. A. Happ|Happ]] (0–1) || — || 43,359 || 1–1 || [https://www.baseball-reference.com/boxes/HOU/HOU201910130.shtml W1]
+|- style="background:#cfc;"
+| 3 || October 15 || @ [[2019 New York Yankees season|Yankees]] || 4–1 || '''[[Gerrit Cole|Cole]]''' (1–0) || [[Luis Severino|Severino]] (0–1) || '''[[Roberto Osuna|Osuna]]''' (1) || 48,998 || 2–1 || [https://www.baseball-reference.com/boxes/NYA/NYA201910150.shtml W2] 
+|- style="text-align:center; background:#bbb
+| — || October 16 || @ [[2019 New York Yankees season|Yankees]] || colspan=7 | ''Postponed (Inclement Weather, makeup date on October 17)''
+|- style="background:#cfc;"
+| 4 || October 17 || @ [[2019 New York Yankees season|Yankees]] || 8–3 || '''[[Ryan Pressly|Pressly]]''' (1–0) || [[Masahiro Tanaka|Tanaka]] (1–1) || — || 49,067 || 3–1 || [https://www.baseball-reference.com/boxes/NYA/NYA201910170.shtml W3]
+|- style="background:#fbb;"
+| 5 || October 18 || @ [[2019 New York Yankees season|Yankees]] || 1–4 || [[James Paxton (baseball)|Paxton]] (1–0) || '''[[Justin Verlander|Verlander]]''' (0–1) || [[Aroldis Chapman|Chapman]] (1) || 48,483 || 3–2 || [https://www.baseball-reference.com/boxes/NYA/NYA201910180.shtml L1]
+|- style="background:#cfc;"
+| 6 || October 19 || [[2019 New York Yankees season|Yankees]] || 6–4 || '''[[Roberto Osuna|Osuna]]''' (1–0) || [[Aroldis Chapman|Chapman]] (0–1) || — || 43,357 || 4–2 || [https://www.baseball-reference.com/boxes/HOU/HOU201910190.shtml W1] 
+|-
+{{Game log section end}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=[[2019 World Series|<span style="color:white;">WS</span>]] vs [[2019 Washington Nationals season|<span style="color:white;">Nationals</span>]]: (3–4) | #| Date| Opponent| Score| Win| Loss| Save| Attendance| Record | Streak  }}
+|-style="background:#fbb;"
+| 1 || October 22 || [[2019 Washington Nationals season|Nationals]] || 4–5 || [[Max Scherzer|Scherzer]] (1–0) || '''[[Gerrit Cole|Cole]]''' (0–1) || [[Sean Doolittle|Doolittle]] (1) || 43,339 || 0–1 || [https://www.baseball-reference.com/boxes/HOU/HOU201910220.shtml L1]
+|-style="background:#fbb;"
+| 2 || October 23 || [[2019 Washington Nationals season|Nationals]] || 3–12 || [[Stephen Strasburg|Strasburg]] (1–0) || '''[[Justin Verlander|Verlander]]''' (0–1) || — || 43,357 || 0–2 || [https://www.baseball-reference.com/boxes/HOU/HOU201910230.shtml L2]
+|-style="background:#cfc;"
+| 3 || October 25 || @ [[2019 Washington Nationals season|Nationals]] || 4–1 || '''[[Josh James (baseball)|James]]''' (1–0) || [[Aníbal Sánchez|Sánchez]] (0–1) || '''[[Roberto Osuna|Osuna]]''' (1) || 43,867 || 1–2 || [https://www.baseball-reference.com/boxes/WAS/WAS201910250.shtml W1]
+|-style="background:#cfc;"
+| 4 || October 26 || @ [[2019 Washington Nationals season|Nationals]] || 8–1 || '''[[José Urquidy|Urquidy]]''' (1–0) || [[Patrick Corbin|Corbin]] (0–1) || — || 43,889 || 2–2 || [https://www.baseball-reference.com/boxes/WAS/WAS201910260.shtml W2]
+|-style="background:#cfc;"
+| 5 || October 27 || @ [[2019 Washington Nationals season|Nationals]] || 7–1 || '''[[Gerrit Cole|Cole]]''' (1–1) || [[Joe Ross (baseball)|Ross]] (0–1) || — || 43,910 || 3–2 || [https://www.baseball-reference.com/boxes/WAS/WAS201910270.shtml W3]
+|-style="background:#fbb;" 
+| 6 || October 29 || [[2019 Washington Nationals season|Nationals]] || 2–7 || [[Stephen Strasburg|Strasburg]] (2–0) || '''[[Justin Verlander|Verlander]]''' (0–2) || — || 43,384 || 3–3 || [https://www.baseball-reference.com/boxes/HOU/HOU201910290.shtml L1]
+|-style="background:#fbb;"  
+| 7 || October 30 || [[2019 Washington Nationals season|Nationals]] || 2–6 || [[Patrick Corbin|Corbin]] (1–1) || '''[[Will Harris (baseball)|Harris]]''' (0–1) || — || 43,326 || 3–4 || [https://www.baseball-reference.com/boxes/HOU/HOU201910300.shtml L2]
+|-
+{{Game log section end}}
+{{Game log end}}
+
+===Postseason rosters===
+{{Game log start|style=background:#072854;color:#FF7F00; | title= Playoff rosters}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=American League Division Series }}
+| style="text-align:left" | 
+*Pitchers: 20 [[Wade Miley]] 21 [[Zack Greinke]] 30 [[Héctor Rondón]] 35 [[Justin Verlander]] 36 [[Will Harris (baseball)|Will Harris]] 38 [[Joe Smith (pitcher)|Joe Smith]] 39 [[Josh James (baseball)|Josh James]] 45 [[Gerrit Cole]] 54 [[Roberto Osuna]] 55 [[Ryan Pressly]] 65 [[José Urquidy]]
+*Catchers: 12 [[Martín Maldonado]] 28 [[Robinson Chirinos]]
+*Infielders: 1 [[Carlos Correa]] 2 [[Alex Bregman]] 10 [[Yuli Gurriel]] 16 [[Aledmys Díaz]] 27 [[Jose Altuve]]
+*Outfielders: 3 [[Kyle Tucker]] 4 [[George Springer]] 6 [[Jake Marisnick]] 22 [[Josh Reddick]] 23 [[Michael Brantley]] 26 [[Myles Straw]] 44 [[Yordan Alvarez]]
+|- valign="top"
+{{Game log section end}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=American League Championship Series }}
+| style="text-align:left" | 
+*Pitchers: 21 [[Zack Greinke]] 30 [[Héctor Rondón]] 35 [[Justin Verlander]] 36 [[Will Harris (baseball)|Will Harris]] 38 [[Joe Smith (pitcher)|Joe Smith]] 39 [[Josh James (baseball)|Josh James]] 41 [[Brad Peacock]] 45 [[Gerrit Cole]] 54 [[Roberto Osuna]] 55 [[Ryan Pressly]] 65 [[José Urquidy]] 66 [[Bryan Abreu]]
+*Catchers: 12 [[Martín Maldonado]] 28 [[Robinson Chirinos]]
+*Infielders: 1 [[Carlos Correa]] 2 [[Alex Bregman]] 10 [[Yuli Gurriel]] 16 [[Aledmys Díaz]] 27 [[Jose Altuve]]
+*Outfielders: 3 [[Kyle Tucker]] 4 [[George Springer]] 6 [[Jake Marisnick]] 22 [[Josh Reddick]] 23 [[Michael Brantley]] 44 [[Yordan Alvarez]]
+|- valign="top"
+{{Game log section end}}
+{{Game log section start|hide=y|style=background:#FF7F00;color:#fff;|title=World Series }}
+| style="text-align:left" |
+*Pitchers: 21 [[Zack Greinke]] 30 [[Héctor Rondón]] 35 [[Justin Verlander]] 36 [[Will Harris (baseball)|Will Harris]] 38 [[Joe Smith (pitcher)|Joe Smith]] 39 [[Josh James (baseball)|Josh James]] 41 [[Brad Peacock]] 45 [[Gerrit Cole]] 47 [[Chris Devenski]] 54 [[Roberto Osuna]] 55 [[Ryan Pressly]] 65 [[José Urquidy]]
+*Catchers: 12 [[Martín Maldonado]] 28 [[Robinson Chirinos]]
+*Infielders: 1 [[Carlos Correa]] 2 [[Alex Bregman]] 10 [[Yuli Gurriel]] 16 [[Aledmys Díaz]] 27 [[Jose Altuve]]
+*Outfielders: 3 [[Kyle Tucker]] 4 [[George Springer]] 6 [[Jake Marisnick]] 22 [[Josh Reddick]] 23 [[Michael Brantley]] 44 [[Yordan Alvarez]]
+|- valign="top"
+{{Game log section end}}
+{{Game log end}}
+
+== Awards and achievements ==
+
+=== Grand slams ===
+{| class="wikitable sortable"
+|-
+! No. !! class="unsortable"| Date !! Astros batter !! H/A !! Pitcher !! Opposing team
+|-
+|align="center"| 1 || rowspan="2"| April 12 || [[Jose Altuve]] || align="center" rowspan="4" |Away || [[Shawn Armstrong]] || rowspan="2"| [[2019 Seattle Mariners season|Seattle Mariners]] 
+|-
+|align="center"| 2 || [[Yuli Gurriel]] || [[R. J. Alaniz]] 
+|-
+|align="center"| 3 || April 16 || [[Alex Bregman]] || [[Liam Hendriks]] || [[2019 Oakland Athletics season|Oakland Athletics]]
+|- 
+|align="center"| 4 || May 5 || [[Alex Bregman]] || [[Cam Bedrosian]] || [[2019 Los Angeles Angels season|Los Angeles Angels]] 
+|- 
+|align="center"| 5 || May 11 || [[Aledmys Díaz]] || align="center" rowspan="2"| Home || [[Kyle Dowdy]] || [[2019 Texas Rangers season|Texas Rangers]]
+|- 
+|align="center"| 6 || June 14 || [[Robinson Chirinos]] || [[Thomas Pannone]] || [[2019 Toronto Blue Jays season|Toronto Blue Jays]]
+|- 
+|align="center"| 7 || June 23 || [[Tyler White]] || align="center"|Away || [[J. A. Happ]] || [[2019 New York Yankees season|New York Yankees]] 
+|- 
+|align="center"| 8 || July 7 || [[Yuli Gurriel]] || align="center"|Home || [[Cam Bedrosian]] || [[2019 Los Angeles Angels season|Los Angeles Angels]] 
+|- 
+|align="center"| 9 || July 14 || [[Jose Altuve]] || align="center" rowspan="4" |Away || [[Kyle Bird]] || [[2019 Texas Rangers season|Texas Rangers]]  
+|- 
+|align="center"| 10 || July 27 || [[Carlos Correa]] || [[Michael Wacha]] || [[2019 St. Louis Cardinals season|St. Louis Cardinals]] 
+|- 
+|align="center"| 11 || August 10 || [[Yordan Alvarez]] || [[Tayler Scott]] || [[2019 Baltimore Orioles season|Baltimore Orioles]] 
+|- 
+|align="center"| 12 || October 26 || [[Alex Bregman]] || [[Fernando Rodney]] || [[2019 Washington Nationals season|Washington Nationals]]
+|} 
+
+=== Pitching achievements ===
+{| class="wikitable unsortable" border="1" style="font-size: 90%; width: 35%" 
+|+ '''300 strikeout club'''
+|-
+! style="{{Baseball primary style|Houston Astros|border=2}}" width="12%"| Player
+! style="{{Baseball primary style|Houston Astros|border=2}}" width="1%"|{{abbr|K|Strkeouts}} 
+! style="{{Baseball primary style|Houston Astros|border=2}}" width="7%"|{{abbr|W–L|Win–loss record}} 
+! style="{{Baseball primary style|Houston Astros|border=2}}" width="1%"|{{abbr|ERA|Earned run average}} 
+! style="{{Baseball primary style|Houston Astros|border=2}}" width="1%"|{{abbr|K/9|Strikeout per nine innings}} 
+|-
+|align="center"| '''[[Gerrit Cole]]'''
+|align="center"| 326 
+|align="center"| 20–5 
+|align="center"| 2.50
+|align="center"| 13.8 
+|-
+|align="center"| '''[[Justin Verlander]]'''
+|align="center"| 300 
+|align="center"| 21–6 
+|align="center"| 2.58
+|align="center"| 12.1 
+|-
+|} 
+
+=== Awards ===
+{{sticky header}}
+{|class="wikitable sortable sticky-header" margin: 5px; text-align: center;
+! style="{{Baseball primary style|Houston Astros}};" colspan="5" | 2019 Houston Astros award winners 
+|-
+! style="{{Baseball secondary style|Houston Astros}};" colspan="3" |Name of award
+! style="{{Baseball secondary style|Houston Astros}};"|Recipient
+! style="{{Baseball secondary style|Houston Astros}};"|{{Tooltip|Ref|References}}
+|-
+|rowspan="6" |[[All-MLB Team]]  
+|rowspan="2" |First Team
+|rowspan="2" |[[Starting pitcher]]
+|align="center"|{{Sortname|Gerrit|Cole}}
+|rowspan="6" align="center"| <ref>{{cite news |last=Castrovince |first=Anthony |url=https://www.mlb.com/news/2019-all-mlb-team |title=Here is the inaugural All-MLB Team |work=MLB.com |date=December 6, 2019 |access-date=November 12, 2021}}</ref>
+|-
+|align="center"|{{Sortname|Justin|Verlander}}
+|-
+|rowspan="4" |Second Team
+|[[Second baseman]]
+|align="center"|{{Sortname|Jose|Altuve}}
+|-
+|[[Third baseman]]
+|align="center"|{{Sortname|Alex|Bregman}}
+|-
+|[[Designated hitter]]
+|align="center"|{{Sortname|Yordan|Alvarez}}
+|-
+|[[Starting pitcher]]
+|align="center"|{{Sortname|Zack|Greinke}}
+|-
+|colspan="3" |[[League Championship Series Most Valuable Player Award|American League Championship Series Most Valuable Player]] (ALCS MVP) 
+|align="center"|{{Sortname|Jose|Altuve}}
+|align="center"|<ref>{{cite web |url=https://www.baseball-reference.com/postseason/2019_ALCS.shtml |title=2019 ALCS: Houston Astros over New York Yankees (4–2) |work=Baseball-Reference.com |access-date=October 17, 2021}}</ref>
+|-
+|colspan="3" |[[American League]] (AL) [[Cy Young Award]]
+|align="center"|{{Sortname|Justin|Verlander}}
+|align="center"|<ref name=cbscyaward>{{cite news |last=Perry |first=Dayn |url=https://www.cbssports.com/mlb/news/mlb-awards-astros-justin-verlander-wins-al-cy-young-award-over-teammate-gerrit-cole/ |title = MLB awards: Astros' Justin Verlander wins AL Cy Young Award over teammate Gerrit Cole |work=CBSSports.com |date=November 13, 2019 |access-date=November 12, 2021}}</ref>
+|-
+|rowspan="3"; colspan="2" |[[Major League Baseball Pitcher of the Month Award|American League (AL) Pitcher of the Month]]
+| June
+|rowspan="3"; align="center"|{{Sortname|Gerrit|Cole}}
+|rowspan="3"; align="center"|<ref>{{cite web |url=https://www.baseball-reference.com/awards/mlb-pitchers-of-the-month.shtml |title=Major League Baseball Pitchers of the Month |work=Baseball-Reference.com |access-date=November 12, 2021}}</ref>
+|-
+| July
+|-
+| September
+|-
+| rowspan="2"; colspan="2" |[[Major League Baseball Player of the Month Award|American League (AL) Player of the Month]]
+| July
+|align="center"|{{Sortname|Yuli|Gurriel}}
+|rowspan="2"; align="center"|<ref>{{cite web |url=https://www.baseball-reference.com/awards/mlb-players-of-the-month.shtml |title=Major League Baseball Players of the Month |work=Baseball-Reference.com |access-date=November 12, 2021}}</ref>
+|-
+| August
+|align="center"|{{Sortname|Alex|Bregman}}
+|-
+|rowspan="3"; colspan="2" |[[Major League Baseball Rookie of the Month Award|American League (AL) Rookie of the Month]]
+| June
+|rowspan="3"; align="center"|{{Sortname|Yordan|Alvarez}}
+|rowspan="3"; align="center"|<ref>{{cite web |url=https://www.baseball-reference.com/awards/mlb-rookies-of-the-month.shtml |title=Major League Baseball Rookies of the Month |work=Baseball-Reference.com |access-date=November 12, 2021}}</ref>
+|-
+| July
+|-
+| August
+|-
+|colspan="3" |[[Major League Baseball Rookie of the Year Award|American League (AL) Rookie of the Year]]
+|align="center"|{{Sortname|Yordan|Alvarez}}
+|align="center"|<ref name="McTaggart"/>
+|-
+|colspan="3" |[[Darryl Kile]] Award
+|align="center"|{{sortname|Will|Harris|Will Harris (baseball)}}
+|align="center"|<ref name=houstonbbwaa100119/>
+|-
+|-
+|colspan="3" |Fred Hartman Long and Meritorious Service to Baseball
+|align="center"|{{Sortname|Bob|Ford|Robert Ford (sportscaster)}} 
+|align="center"|<ref name=houstonbbwaa100119/>
+|-
+|colspan="3" |Houston Astros [[Most valuable player|Most Valuable Player]] (MVP)
+|align="center"|{{Sortname|Alex|Bregman}}
+|align="center"|<ref name=houstonbbwaa100119/>
+|-
+|colspan="3" |Houston Astros Pitcher of the Year
+|align="center"|{{Sortname|Justin|Verlander}}
+|align="center"|<ref name=houstonbbwaa100119/>
+|-
+|colspan="3" |Houston Astros [[Rookie of the Year (award)|Rookie of the Year]]
+|align="center"|{{Sortname|Yordan|Alvarez}}
+|align="center"|<ref name=houstonbbwaa100119/>
+|-
+|rowspan="2"; colspan="2" |[[Players Choice Awards]]
+| AL Outstanding Pitcher
+|align="center"|{{Sortname|Justin|Verlander}}
+|rowspan="2"; align="center"|<ref>{{cite news |last=Dorsey |first=Russell |url=https://www.mlb.com/news/2019-players-choice-award-winners |title=2019 Players Choice Award winners announced |work=MLB.com |date=October 24, 2019 |access-date=November 13, 2021}}</ref>
+|-
+| AL Outstanding Rookie
+|align="center"|{{Sortname|Yordan|Alvarez}}
+|-
+| rowspan="2"; colspan="2" |[[Silver Slugger Award]]
+| [[List of Silver Slugger Award winners at third base|Third baseman]]
+|align="center"|{{Sortname|Alex|Bregman}}
+|rowspan="2"; align="center"|<ref>{{cite web |url=https://www.baseball-reference.com/awards/silver_slugger_al.shtml#2019 |title=MLB Silver Slugger Award winners – American League |work=Baseball-Reference.com |access-date=November 15, 2021}}</ref>
+|-
+| [[List of Silver Slugger Award winners at outfield|Outfielder]]
+|align="center"|{{Sortname|George|Springer}}
+|-
+|rowspan="3" |''[[Sporting News]]'' 
+|rowspan="2"  |AL All-Stars 
+|[[Third baseman]] 
+|align="center"|{{Sortname|Alex|Bregman}}
+|align="center" rowspan="3" |<ref>{{cite news |last=Bernstein |first=Dan |url=https://www.sportingnews.com/us/mlb/news/sporting-news-2019-american-league-all-stars-betts-edges-judge-vazquez-earns-nod/fmn5e45z8wvs1qqu8ji5fdqfq |title=Sporting News' 2019 American League All-Stars: Betts edges Judge, Vazquez earns nod |work=Sporting News |date=October 24, 2019 |access-date=November 11, 2021}}</ref>
+|-
+|[[Outfielder]]
+|align="center"|{{Sortname|George|Springer}}
+|-
+|colspan="2" |[[Sporting News Pitcher of the Year Award|AL Starting Pitcher of the Year]]{{refn|group=lower-alpha|name="SN Pitcher of the Year"}}
+|align="center"|{{Sortname|Gerrit|Cole}}
+|}
+
+===Statistical leaders=== 
+====All players==== 
+{{sticky header}}
+{| class="wikitable sortable sticky-header" border="1" style="font-size: 90%"
+|+ 2019 AL leaders
+|-
+! style="{{Baseball primary style|Houston Astros|border=2}}"|Category
+! style="{{Baseball primary style|Houston Astros|border=2}}"|Player
+! style="{{Baseball primary style|Houston Astros|border=2}}" class="unsortable"|Figure
+! style="{{Baseball primary style|Houston Astros|border=2}}"|Rank
+|-
+|rowspan="4"| [[Wins Above Replacement]] (WAR)—<br />all Bref{{refn|Per ''Baseball-Reference.com''.|group=lower-alpha|name="BBref WAR leaders"}}
+| {{Sortname|Alex|Bregman}} 
+!align="center"| 8.9
+!align="center"| 1st 
+|-
+| {{Sortname|Justin|Verlander}} 
+|align="center"| 7.3
+|align="center"| 7th 
+|-
+| {{Sortname|Gerrit|Cole}} 
+|align="center"| 6.5
+|align="center"| 9th
+|-
+| {{Sortname|George|Springer}} 
+|align="center"| 6.4
+|align="center"| 10th 
+|-
+|rowspan="2"| WAR—defense
+| {{Sortname|Robinson|Chirinos}} 
+|align="center"| 1.8
+|align="center"| 3rd 
+|-
+| {{Sortname|Alex|Bregman}} 
+|align="center"| 1.7
+|align="center"| 9th
+|- class="sortbottom" 
+| colspan="4;" align="right" | <small>''Ref.:''<ref name=bbref2019albatting>{{cite web |url=https://www.baseball-reference.com/leagues/AL/2019-batting-leaders.shtml |title=2019 American League batting leaders |work=Baseball-Reference.com |access-date=July 16, 2022}}</ref></small> 
+|}
+{{col-begin}}{{col-2}}
+
+====Batters====
+{{sticky header}}
+{| class="wikitable sortable sticky-header" border="1" style="font-size: 90%"
+|+ 2019 AL batting leaders 
+|-
+! style="{{Baseball primary style|Houston Astros|border=2}}"| Category
+! style="{{Baseball primary style|Houston Astros|border=2}}"| Player
+! style="{{Baseball primary style|Houston Astros|border=2}}" class="unsortable"| Figure
+! style="{{Baseball primary style|Houston Astros|border=2}}"| Rank
+|-
+|rowspan="2"| [[Wins Above Replacement]] (WAR)—<br />position players
+| {{Sortname|Alex|Bregman}} 
+!align="center"| 8.9
+!align="center"| 1st
+|-
+| {{Sortname|George|Springer}} 
+|align="center"| 6.4
+|align="center"| 6th
+|-
+|rowspan="2"| WAR—offense
+| {{Sortname|Alex|Bregman}} 
+|align="center"| 7.8
+|align="center"| 2nd
+|-
+| {{Sortname|George|Springer}} 
+|align="center"| 5.1
+|align="center"| 9th
+|-
+| |[[Batting average]] (AVG)
+| {{Sortname|Michael|Brantley}} 
+|align="center"| .311
+|align="center"| 4th
+|-
+|rowspan="2"| [[On-base percentage]] (OBP)
+| {{Sortname|Alex|Bregman}} 
+|align="center"| .423
+|align="center"| 2nd
+|-
+| {{Sortname|George|Springer}} 
+|align="center"| .383
+|align="center"| 8th
+|-
+|rowspan="3"| [[Slugging percentage]] (SLG)
+| {{Sortname|Alex|Bregman}} 
+|align="center"| .592
+|align="center"| 3rd
+|-
+| {{Sortname|George|Springer}} 
+|align="center"| .591
+|align="center"| 4th
+|-
+| {{Sortname|Jose|Altuve}} 
+|align="center"| .550
+|align="center"| 10th
+|-
+|rowspan="2"| [[On-base plus slugging]] (OPS)
+| {{Sortname|Alex|Bregman}} 
+|align="center"| 1.015
+|align="center"| 3rd
+|-
+| {{Sortname|George|Springer}} 
+|align="center"| .974
+|align="center"| 4th
+|-
+|Games played
+|rowspan="3"| {{Sortname|Alex|Bregman}} 
+|align="center"| 156
+|align="center"| 7th
+|-
+|[[Plate appearances]]
+|align="center"| 690
+|align="center"| 9th
+|-
+|[[Run (baseball)|Runs scored]]
+|align="center"| 122
+|align="center"| 4th
+|-
+|[[Hit (baseball)|Hits]]
+| rowspan="2"|{{Sortname|Michael|Brantley}} 
+|align="center"| 179
+|align="center"| 8th
+|-
+| [[Single (baseball)|Single]]s
+|align="center"| 115
+|align="center"| 9th
+|-
+|rowspan="2"| [[Double (baseball)|Doubles]] (2B)
+| {{Sortname|Michael|Brantley}} 
+| align="center" rowspan="2"| 40
+| align="center" rowspan="2"| 5th
+|-
+| {{Sortname|Yuli|Gurriel}} 
+|-
+|rowspan="2"| [[Home run]]s
+| {{Sortname|Alex|Bregman}} 
+|align="center"| 41
+|align="center"| 3rd
+|-
+| {{Sortname|George|Springer}} 
+|align="center"| 39
+|align="center"| 5th
+|-
+|rowspan="2"| [[Runs batted in]] (RBI)
+| {{Sortname|Alex|Bregman}} 
+|align="center" | 112
+|align="center" | 5th
+|-
+| {{Sortname|Yuli|Gurriel}} 
+|align="center" | 104
+|align="center" | 9th
+|-
+| [[Extra-base hit]]s
+|rowspan="4"| {{Sortname|Alex|Bregman}} 
+|align="center"| 80
+|align="center"| 5th
+|-
+| [[Total bases]]
+|align="center"| 328
+|align="center"| 5th
+|-
+|[[Base on balls|Bases on balls]]  
+!align="center"| 119
+!align="center"| 1st
+|-
+|[[Times on base]] 
+!align="center"| 282
+!align="center"| 1st
+|-
+|rowspan="2"| Offensive winning percentage
+| {{Sortname|Alex|Bregman}} 
+|align="center"| .774
+|align="center"| 2nd
+|-
+| {{Sortname|George|Springer}} 
+|align="center"| .713
+|align="center"| 4th
+|-
+|[[Hit by pitch|Hits by pitch]]
+| {{Sortname|Robinson|Chirinos}} 
+|align="center"| 13
+|align="center"| 5th
+|-
+|rowspan="4" |[[Sacrifice fly|Sacrifice flies]]
+| {{Sortname|Josh|Reddick}} 
+|align="center"| 9
+|align="center"| 3rd
+|-
+| {{Sortname|Alex|Bregman}} 
+|align="center"| 8
+|align="center"| 4th
+|-
+| {{Sortname|Aledmys|Díaz}} 
+|align="center" rowspan="2"| 6
+|align="center" rowspan="2"| 10th
+|-
+| {{Sortname|Yuli|Gurriel}} 
+|-
+|rowspan="4" |[[At bat]]s per [[strikeout]]
+| {{Sortname|Michael|Brantley}} 
+|align="center" | 8.7
+|align="center" | 3rd
+|-
+| {{Sortname|Yuli|Gurriel}} 
+|align="center" | 8.7
+|align="center" | 4th
+|-
+| {{Sortname|Josh|Reddick}} 
+|align="center"| 7.8
+|align="center"| 5th
+|-
+| {{Sortname|Alex|Bregman}} 
+|align="center"| 6.7
+|align="center"| 8th
+|- class="sortbottom" 
+| colspan="4;" align="right" | <small>''Ref.:''<ref name=bbref2019albatting/></small> 
+|}
+
+{{col-2}}
+
+====Pitchers==== 
+{{sticky header}}
+{| class="wikitable sortable sticky-header" border="1" style="font-size: 90%"
+|+ 2019 AL pitching leaders 
+|-
+! style="{{Baseball primary style|Houston Astros|border=2}}"| Category
+! style="{{Baseball primary style|Houston Astros|border=2}}"| Player
+! style="{{Baseball primary style|Houston Astros|border=2}}" class="unsortable"| Figure
+! style="{{Baseball primary style|Houston Astros|border=2}}"| Rank 
+|-
+|rowspan="2"| [[Wins Above Replacement]] (WAR)—<br />pitching
+| {{Sortname|Justin|Verlander}}
+|align="center" | 7.4  
+|align="center" | 3rd 
+|-
+|rowspan="2"| {{Sortname|Gerrit|Cole}} 
+|align="center" | 6.6 
+|align="center" | 4th 
+|-
+|rowspan="2"| [[Earned run average]] (ERA) 
+!align="center" | 2.50 
+!align="center" | 1st 
+|-
+|rowspan="2"| {{Sortname|Justin|Verlander}}
+|align="center" | 2.58 
+|align="center" | 2nd 
+|-
+|rowspan="2"| [[Win–loss record (pitching)#Winning pitcher|Wins]]
+!align="center" | 21 
+!align="center" | 1st
+|-
+|rowspan="2"| {{Sortname|Gerrit|Cole}}
+|align="center" | 20
+|align="center" | 2nd
+|-
+|rowspan="3"| [[Win–loss record (pitching)|Win–loss percentage]]
+|align="center" | .800 
+|align="center" | 2nd
+|-
+| {{Sortname|Justin|Verlander}}
+|align="center" | .778
+|align="center" | 4th
+|-
+| {{Sortname|Wade|Miley}}
+|align="center" | .700
+|align="center" | 9th
+|-
+|rowspan="2"| [[Walks plus hits per inning pitched|WHIP]] 
+| {{Sortname|Justin|Verlander}}
+!align="center" | .803 
+!align="center" | 1st
+|-
+| {{Sortname|Gerrit|Cole}}
+|align="center" | .895
+|align="center" | 2nd
+|-
+|rowspan="2"| [[Hits per nine innings]] (H/9)
+| {{Sortname|Justin|Verlander}}
+!align="center" | 5.529 
+!align="center" | 1st
+|-
+| {{Sortname|Gerrit|Cole}}
+|align="center" | 6.019
+|align="center" | 2nd
+|-
+|rowspan="2"| [[Bases on balls per nine innings pitched|BB/9]]
+| {{Sortname|Justin|Verlander}}
+|align="center" | 1.695 
+|align="center" | 2nd
+|-
+|rowspan="2"| {{Sortname|Gerrit|Cole}} 
+|align="center" | 2.035
+|align="center" | 4th 
+|-
+|rowspan="2"| [[Strikeouts per nine innings pitched|K/9]]
+!align="center" | 13.818 
+!align="center" | 1st 
+|-
+| {{Sortname|Justin|Verlander}} 
+|align="center" | 12.108 
+|align="center" | 2nd 
+|-
+| [[Save (baseball)|Saves]]
+| {{Sortname|Roberto|Osuna}}
+!align="center" | 38 
+!align="center" | 1st 
+|-
+|rowspan="2"| [[Hold (baseball)|Holds]]
+| {{Sortname|Ryan|Pressly}}
+!align="center" | 31 
+!align="center" | 1st
+|-
+| {{Sortname|Will|Harris|dab=baseball}}
+|align="center" | 26 
+|align="center" | 10th 
+|-
+|rowspan="2"| [[Innings pitched]] 
+| {{Sortname|Justin|Verlander}}
+!align="center" | 223 
+!align="center" | 1st
+|-
+|rowspan="2"| {{Sortname|Gerrit|Cole}}
+|align="center" | {{frac|212|1|3}} 
+|align="center" | 3rd 
+|-
+|rowspan="2"| [[Strikeout]]s (SO or K) 
+!align="center" | 326 
+!align="center" | 1st 
+|-
+| {{Sortname|Justin|Verlander}} 
+|align="center" | 300 
+|align="center" | 2nd 
+|-
+|rowspan="2"| [[Quality starts]] 
+| {{Sortname|Gerrit|Cole}} 
+!rowspan="2" align="center" | 26
+!rowspan="2" align="center" | 1st 
+|-
+| {{Sortname|Justin|Verlander}} 
+|-
+| [[Complete games]] 
+|rowspan="3"| {{Sortname|Justin|Verlander}}
+|rowspan="2" align="center" | 1 
+|rowspan="2" align="center" | 3rd 
+|-
+| [[Shutout (baseball)|Shutouts]] 
+|-
+| [[Home run]]s allowed 
+|align="center" | 36
+|align="center" | 2nd  
+|- class="sortbottom" 
+| colspan="4;" align="right" | <small>''Primary source:''</small><ref name=2019alpitlead/> • <small>''[[Quality start|QS]] & [[Hold (baseball)|Hld]] ([[American League|AL]] leaders):''</small><ref>{{cite web |url=https://www.espn.com/mlb/stats/player/_/view/pitching/season/2019/seasontype/2/table/pitching/sort/qualityStarts/dir/desc |title=MLB player pitching stats 2019 |work=ESPN.com |access-date=February 22, 2025}}</ref> 
+|}
+
+{{col-end}}
+
+==Roster==
+{|class="toccolours" style="font-size: 95%;"
+|-
+! colspan="10" style="background:#072854; color:#FF7F00; text-align:center;"|2019 Houston Astros
+|-
+|colspan="10" style="background:#FF7F00; color:white; text-align:center;"|'''Roster'''
+|-
+|valign="top"|'''Pitchers'''
+{{MLBplayer|66|[[Bryan Abreu]]}}
+{{MLBplayer|61|[[Rogelio Armenteros]]}}
+{{MLBplayer|29|[[Joe Biagini]]}}
+{{MLBplayer|45|[[Gerrit Cole]]}}
+{{MLBplayer|47|[[Chris Devenski]]}}
+{{MLBplayer|21|[[Zack Greinke]]}}
+{{MLBplayer|64|[[Reymin Guduan]]}}
+{{MLBplayer|36|[[Will Harris (baseball)|Will Harris]]}}
+{{MLBplayer|39|[[Josh James (baseball)|Josh James]]}}
+{{MLBplayer|29|[[Corbin Martin]]}}
+{{MLBplayer|31|[[Collin McHugh]]}}
+{{MLBplayer|20|[[Wade Miley]]}}
+{{MLBplayer|54|[[Roberto Osuna]]}}
+{{MLBplayer|41|[[Brad Peacock]]}}
+{{MLBplayer|51|[[Cionel Pérez]]}}
+{{MLBplayer|55|[[Ryan Pressly]]}}
+{{MLBplayer|52|[[Brady Rodgers]]}}
+{{MLBplayer|30|[[Héctor Rondón]]}}
+{{MLBplayer|18|[[Aaron Sanchez (baseball)|Aaron Sanchez]]}}
+{{MLBplayer|38|[[Joe Smith (pitcher)|Joe Smith]]}}
+{{MLBplayer|67|[[Cy Sneed]]}}
+{{MLBplayer|65|[[José Urquidy]]}}
+{{MLBplayer|59|[[Framber Valdez]]}}
+{{MLBplayer|35|[[Justin Verlander]]}}
+|style="width:25px;"|
+|valign="top"|'''Catchers'''
+{{MLBplayer|28|[[Robinson Chirinos]]}}
+{{MLBplayer|12|[[Martín Maldonado]]}}
+{{MLBplayer|12|[[Max Stassi]]}}
+{{MLBplayer|11|[[Garrett Stubbs]]}}
+'''Infielders'''
+{{MLBplayer|27|[[Jose Altuve]]}}
+{{MLBplayer|&nbsp;2|[[Alex Bregman]]}}
+{{MLBplayer|&nbsp;1|[[Carlos Correa]]}}
+{{MLBplayer|16|[[Aledmys Díaz]]}}
+{{MLBplayer|10|[[Yuli Gurriel]]}}
+{{MLBplayer|18|[[Tony Kemp (baseball)|Tony Kemp]]}}
+{{MLBplayer|&nbsp;9|[[Jack Mayfield]]}}
+{{MLBplayer|26|[[Myles Straw]]}}
+{{MLBplayer|13|[[Abraham Toro]]}}
+{{MLBplayer|13|[[Tyler White]]}}
+|style="width:25px;"|
+|valign="top"|
+'''Outfielders'''
+{{MLBplayer|44|[[Yordan Alvarez]]}}
+{{MLBplayer|23|[[Michael Brantley]]}}
+{{MLBplayer|21|[[Derek Fisher (baseball)|Derek Fisher]]}}
+{{MLBplayer|&nbsp;6|[[Jake Marisnick]]}}
+{{MLBplayer|22|[[Josh Reddick]]}}
+{{MLBplayer|&nbsp;4|[[George Springer]]}}
+{{MLBplayer|&nbsp;3|[[Kyle Tucker]]}}
+|style="width:25px;"|
+|valign="top"|'''Manager'''
+{{MLBplayer|14|[[A. J. Hinch]]}}
+
+'''Coaches'''
+{{MLBplayer|85|Javier Bracamonte}} {{small|(bullpen catcher)}}
+{{MLBplayer|37|[[Alex Cintrón]]}}  {{small|(hitting)}}
+{{MLBplayer|84|[[Michael Collins (baseball)|Michael Collins]]}} {{small|(catching)}}
+{{MLBplayer|19|[[Joe Espada]]}} {{small|(bench)}}
+{{MLBplayer|15|[[Don Kelly (baseball)|Don Kelly]]}} {{small|(first base)}}
+{{MLBplayer|48|[[Josh Miller (baseball)|Josh Miller]]}} {{small|(bullpen)}}
+{{MLBplayer|&nbsp;8|[[Gary Pettis]]}} {{small|(third base)}}
+{{MLBplayer|46|[[Troy Snitker]]}} {{small|(hitting)}}
+{{MLBplayer|56|[[Brent Strom]]}} {{small|(pitching)}}
+|}
+
+==Farm system==
+{{See also|Minor League Baseball}}
+
+{{MLB Farm System|level11=[[Triple-A (baseball)|AAA]]|team11=[[Round Rock Express]]|league11=[[Pacific Coast League]]|manager11=  
+|level12=[[Double-A (baseball)|AA]] |team12=[[Corpus Christi Hooks]]|league12=[[Texas League]]|manager12=[[Omar López (baseball)|Omar López]]
+|level13=[[Minor League Baseball#Class A-Advanced|A-Advanced]]  |team13=[[Fayetteville Woodpeckers]]|league13=[[Carolina League]]|manager13=  
+|level14=[[Minor League Baseball#Class A|A]]|team14=[[Quad Cities River Bandits]]|league14=[[Midwest League]]|manager14=  
+|level15=[[Minor League Baseball#Class A Short Season|A-Short Season]]|team15=[[Tri-City ValleyCats]]|league15=[[New York–Penn League]]|manager15=  
+|level16=[[Minor League Baseball#Rookie|Rookie]]|team16=[[Gulf Coast Astros|GCL Astros]]|league16=[[Gulf Coast League]]|manager16=  
+|level17=[[Minor League Baseball#Rookie|Rookie]]|team17=[[Dominican Summer League Astros|DSL Astros]]|league17=[[Dominican Summer League]]|manager17=  
+}}
+
+==See also==
+{{Portal|Texas|Baseball}}
+{{div col}} 
+* [[300 strikeout club]]
+* [[List of Major League Baseball 100 win seasons]]
+* [[List of Major League Baseball annual ERA leaders]]
+* [[List of Major League Baseball annual saves leaders]]
+* [[List of Major League Baseball annual strikeout leaders]]
+* [[List of Major League Baseball annual wins leaders]]
+* [[List of Major League Baseball franchise postseason streaks]]
+* [[List of Major League Baseball no-hitters]]
+* [[List of Major League Baseball pitchers who have thrown an immaculate inning]]
+{{div col end}}
+{{clear}}
+
+==References==
+;Footnotes
+{{reflist|group=lower-alpha|30em}}
+
+;Sources
+{{Reflist}}
+
+==External links==
+*[http://houston.astros.mlb.com/schedule/index.jsp?c_id=hou Houston Astros season official site] {{Webarchive|url=https://web.archive.org/web/20121004014317/http://houston.astros.mlb.com/schedule/index.jsp?c_id=hou |date=October 4, 2012 }}
+*[https://www.baseball-reference.com/teams/HOU/2019.shtml 2019 Houston Astros season] at ''Baseball Reference''
+
+{{American League champions}}
+{{American League West champions}}
+{{2019 MLB Playoffs navbox}}
+{{2019 MLB season by team}}
+{{Houston Astros}}
+
+[[Category:Houston Astros seasons]]
+[[Category:2019 Major League Baseball season|Houston Astros]]
+[[Category:2019 in sports in Texas|Houston Astros]]
+[[Category:American League West champion seasons]]
+[[Category:American League champion seasons]]
+[[Category:2019 in Houston]]
